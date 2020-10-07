@@ -1,5 +1,5 @@
 # Critical-data-of-FIR-using-Blockchain
-# Pre-Requisites
+
 This repository contains the codes for storing the critical data of FIR using MultiChain
 # Pre-Requisites:
 - Vscode
