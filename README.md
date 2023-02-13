@@ -1,5 +1,4 @@
-# Critical-data-of-FIR-using-Blockchain
-
+# Storing Critical-data-of-FIR-using-Blockchain
 This repository contains the codes for storing the critical data of FIR using MultiChain
 # Pre-Requisites:
 - Vscode
@@ -17,6 +16,6 @@ This repository contains the codes for storing the critical data of FIR using Mu
 # For Running a Node on your own device, please follow the following instructuions:
 - Open Backend --> open CMD/CLI window --> type: " npm start".
 - Open frontend typescript --> open CMD window --> type: " yarn start".
---Open a new CMD/CLI window --> type: " multichaind -datadir=[your Directory]\[YourNodeName] --port=4266 --rpcport=4267 chain1
-"
-
+- Open a new CMD/CLI window --> type: " multichaind -datadir=[your Directory]\[YourNodeName] --port=4266 --rpcport=4267 [ChainName]
+- Open your browser to see the GUI of the "localhost"
+- Add your [username] and [password] for login to the system. 

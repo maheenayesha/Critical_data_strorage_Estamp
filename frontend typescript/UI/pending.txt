@@ -1,0 +1,6 @@
+add token headers in backend & frontend
+limit the token time
+log app
+checks
+change CoreUI 
+Footer

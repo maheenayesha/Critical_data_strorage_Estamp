@@ -1,0 +1,9 @@
+2021/05/03-10:52:52.000325 1bac Recovering log #38
+2021/05/03-10:52:52.000325 1bac Level-0 table #40: started
+2021/05/03-10:52:52.000330 1bac Level-0 table #40: 192 bytes OK
+2021/05/03-10:52:52.000332 1bac Delete type=0 #38
+2021/05/03-10:52:52.000332 1bac Delete type=3 #36
+2021/05/03-10:52:52.000333 27a4 Compacting 4@0 + 1@1 files
+2021/05/03-10:52:52.000348 27a4 Generated table #42: 231 keys, 15756 bytes
+2021/05/03-10:52:52.000348 27a4 Compacted 4@0 + 1@1 files => 15756 bytes
+2021/05/03-10:52:52.000348 27a4 compacted to: files[ 0 1 0 0 0 0 0 ]

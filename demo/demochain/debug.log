@@ -1,0 +1,1869 @@
+2021-04-22 09:04:40 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2021-04-22 09:04:40 MultiChain version build 2.1.2 protocol 20012 (Feb 18 2019, 14:27:04)
+2021-04-22 09:04:40 Using OpenSSL version OpenSSL 1.0.1k 8 Jan 2015
+2021-04-22 09:04:40 Using BerkeleyDB version Berkeley DB 4.8.30: (April  9, 2010)
+2021-04-22 09:04:40 Default data directory C:\demo\demochain
+2021-04-22 09:04:40 Using data directory C:\demo\demochain
+2021-04-22 09:04:40 Using config file C:\demo\demochain\demochain.conf
+2021-04-22 09:04:40 Using at most 125 connections (2048 file descriptors available)
+2021-04-22 09:04:40 Using 8 threads for script verification
+2021-04-22 09:04:40 Using wallet wallet.dat
+2021-04-22 09:04:40 init message: Verifying wallet...
+2021-04-22 09:04:40 Wallet file doesn't exist. New file will be created with version 3.
+2021-04-22 09:04:40 Binding RPC on address ::1 port 8570 (IPv4+IPv6 bind any: 0)
+2021-04-22 09:04:40 Binding RPC on address 127.0.0.1 port 8570 (IPv4+IPv6 bind any: 0)
+2021-04-22 09:04:40 init message: Initializing multichain...
+2021-04-22 09:04:40 nFileVersion = 0
+2021-04-22 09:04:40 Keys: 0 plaintext, 0 encrypted, 0 w/ metadata, 0 total
+2021-04-22 09:04:40 mchn: Default key is not found - creating new... 
+2021-04-22 09:04:40 keypool added key 1, size=1
+2021-04-22 09:04:40 keypool added key 2, size=2
+2021-04-22 09:04:40 mchn: Checking seed address 172.16.26.203:7415
+2021-04-22 09:04:40 mchn: Seed address resolved: 172.16.26.203:7415
+2021-04-22 09:04:40 mchn: Parameter set is not complete - starting paramset discovery thread...
+2021-04-22 09:04:40 init message: Loading addresses...
+2021-04-22 09:04:40 Loaded 0 addresses from peers.dat  0ms
+2021-04-22 09:04:40 AddLocal([fe80::cf1:c730:6e2c:571a]:8571,1)
+2021-04-22 09:04:40 Discover: cplab01 - fe80::cf1:c730:6e2c:571a
+2021-04-22 09:04:40 AddLocal([fe80::9561:46eb:63c6:dd02]:8571,1)
+2021-04-22 09:04:40 Discover: cplab01 - fe80::9561:46eb:63c6:dd02
+2021-04-22 09:04:40 AddLocal([fe80::e:cc85:aae5:576]:8571,1)
+2021-04-22 09:04:40 Discover: cplab01 - fe80::e:cc85:aae5:576
+2021-04-22 09:04:40 AddLocal(192.168.214.1:8571,1)
+2021-04-22 09:04:40 Discover: cplab01 - 192.168.214.1
+2021-04-22 09:04:40 AddLocal(192.168.143.1:8571,1)
+2021-04-22 09:04:40 Discover: cplab01 - 192.168.143.1
+2021-04-22 09:04:40 AddLocal(172.16.25.102:8571,1)
+2021-04-22 09:04:40 Discover: cplab01 - 172.16.25.102
+2021-04-22 09:04:40 dnsseed thread start
+2021-04-22 09:04:40 Loading addresses from DNS seeds (could take a while)
+2021-04-22 09:04:40 0 addresses found from DNS seeds
+2021-04-22 09:04:40 dnsseed thread exit
+2021-04-22 09:04:40 net thread start
+2021-04-22 09:04:40 opencon thread start
+2021-04-22 09:04:40 Seed node is set, trying to connect to 172.16.26.203:7415...
+2021-04-22 09:04:40 msghand thread start
+2021-04-22 09:04:40 dumpaddr thread start
+2021-04-22 09:04:40 addcon thread start
+2021-04-22 09:04:41 mchn: Connection from 16XaGTbo9X4rdVQTaMKMSNeSwjFxiu7jbF received on peer=1 in verack
+2021-04-22 09:04:41 mchn: Successfully stored parameter set received from 172.16.26.203:7415
+2021-04-22 09:04:41 msghand thread interrupt
+2021-04-22 09:04:41 dumpaddr thread stop
+2021-04-22 09:04:41 net thread interrupt
+2021-04-22 09:04:41 opencon thread interrupt
+2021-04-22 09:04:41 addcon thread interrupt
+2021-04-22 09:04:41 mchn: Exited from paramset discovery thread
+2021-04-22 09:04:41 mchn: Minimal blockchain parameter set is created, default address: 17QyqWTkfiN4C2XpSYQxktcg2hmAdheA19qVGV
+2021-04-22 09:04:41 Shutdown: In progress...
+2021-04-22 09:04:41 RPCAcceptHandler: Error: The I/O operation has been aborted because of either a thread exit or an application request
+2021-04-22 09:04:41 RPCAcceptHandler: Error: The I/O operation has been aborted because of either a thread exit or an application request
+2021-04-22 09:04:41 StopNode()
+2021-04-22 09:04:41 Node stopped
+2021-04-22 09:04:41 Shutdown: done
+2021-04-22 09:06:43 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2021-04-22 09:06:43 MultiChain version build 2.1.2 protocol 20012 (Feb 18 2019, 14:27:04)
+2021-04-22 09:06:43 Using OpenSSL version OpenSSL 1.0.1k 8 Jan 2015
+2021-04-22 09:06:43 Using BerkeleyDB version Berkeley DB 4.8.30: (April  9, 2010)
+2021-04-22 09:06:43 Default data directory C:\demo\demochain
+2021-04-22 09:06:43 Using data directory C:\demo\demochain
+2021-04-22 09:06:43 Using config file C:\demo\demochain\demochain.conf
+2021-04-22 09:06:43 Using at most 125 connections (2048 file descriptors available)
+2021-04-22 09:06:43 Using 8 threads for script verification
+2021-04-22 09:06:43 Using wallet wallet.dat
+2021-04-22 09:06:43 init message: Verifying wallet...
+2021-04-22 09:06:43 Wallet file exists. WalletDBVersion: 3.
+2021-04-22 09:06:43 Binding RPC on address ::1 port 7414 (IPv4+IPv6 bind any: 0)
+2021-04-22 09:06:43 Binding RPC on address 127.0.0.1 port 7414 (IPv4+IPv6 bind any: 0)
+2021-04-22 09:06:43 init message: Initializing multichain...
+2021-04-22 09:06:43 nFileVersion = 100000
+2021-04-22 09:06:43 Keys: 2 plaintext, 0 encrypted, 2 w/ metadata, 2 total
+2021-04-22 09:06:43 mchn: Checking seed address 172.16.26.203:7415
+2021-04-22 09:06:43 mchn: Seed address resolved: 172.16.26.203:7415
+2021-04-22 09:06:43 mchn: Parameter set is not complete - starting paramset discovery thread...
+2021-04-22 09:06:43 init message: Loading addresses...
+2021-04-22 09:06:43 Loaded 0 addresses from peers.dat  0ms
+2021-04-22 09:06:43 AddLocal([fe80::cf1:c730:6e2c:571a]:8571,1)
+2021-04-22 09:06:43 Discover: cplab01 - fe80::cf1:c730:6e2c:571a
+2021-04-22 09:06:43 AddLocal([fe80::9561:46eb:63c6:dd02]:8571,1)
+2021-04-22 09:06:43 Discover: cplab01 - fe80::9561:46eb:63c6:dd02
+2021-04-22 09:06:43 AddLocal([fe80::e:cc85:aae5:576]:8571,1)
+2021-04-22 09:06:43 Discover: cplab01 - fe80::e:cc85:aae5:576
+2021-04-22 09:06:43 AddLocal(192.168.214.1:8571,1)
+2021-04-22 09:06:43 Discover: cplab01 - 192.168.214.1
+2021-04-22 09:06:43 AddLocal(192.168.143.1:8571,1)
+2021-04-22 09:06:43 Discover: cplab01 - 192.168.143.1
+2021-04-22 09:06:43 AddLocal(172.16.25.102:8571,1)
+2021-04-22 09:06:43 Discover: cplab01 - 172.16.25.102
+2021-04-22 09:06:43 dnsseed thread start
+2021-04-22 09:06:43 Loading addresses from DNS seeds (could take a while)
+2021-04-22 09:06:43 0 addresses found from DNS seeds
+2021-04-22 09:06:43 dnsseed thread exit
+2021-04-22 09:06:43 opencon thread start
+2021-04-22 09:06:43 Seed node is set, trying to connect to 172.16.26.203:7415...
+2021-04-22 09:06:43 net thread start
+2021-04-22 09:06:43 dumpaddr thread start
+2021-04-22 09:06:43 msghand thread start
+2021-04-22 09:06:43 addcon thread start
+2021-04-22 09:06:44 mchn: Connection from 19CGMgtsx7o4x4B6ZqYRyxNnJg3ActQhVHLsTH received on peer=1 in verack
+2021-04-22 09:06:44 mchn: Cannot find address having connect permission, trying default key
+2021-04-22 09:06:44 mchn: Connection from 19CGMgtsx7o4x4B6ZqYRyxNnJg3ActQhVHLsTH received on peer=1 in verack
+2021-04-22 09:06:44 mchn: Successfully stored parameter set received from 172.16.26.203:7415
+2021-04-22 09:06:44 msghand thread interrupt
+2021-04-22 09:06:44 addcon thread interrupt
+2021-04-22 09:06:44 opencon thread interrupt
+2021-04-22 09:06:44 dumpaddr thread stop
+2021-04-22 09:06:44 net thread interrupt
+2021-04-22 09:06:44 mchn: Exited from paramset discovery thread
+2021-04-22 09:06:44 mchn: Parameter set is valid - initializing blockchain parameters...
+2021-04-22 09:06:44 Wallet mode: 00000103
+2021-04-22 09:06:44 Node paused state is set to 00000000
+2021-04-22 09:06:44 Bound to [::]:7415
+2021-04-22 09:06:44 Bound to 0.0.0.0:7415
+2021-04-22 09:06:44 Filter initialization completed
+2021-04-22 09:06:44 Setting banned transaction list:    0 transactions
+2021-04-22 09:06:44 init message: Loading block index...
+2021-04-22 09:06:44 Opening LevelDB in C:\demo\demochain\blocks\index
+2021-04-22 09:06:44 Opened LevelDB successfully
+2021-04-22 09:06:44 Opening LevelDB in C:\demo\demochain\chainstate
+2021-04-22 09:06:44 Opened LevelDB successfully
+2021-04-22 09:06:44 nFileVersion = 100000
+2021-04-22 09:06:44 Keys: 2 plaintext, 0 encrypted, 2 w/ metadata, 2 total
+2021-04-22 09:06:44 LoadBlockIndexDB: last block file = 0
+2021-04-22 09:06:44 LoadBlockIndexDB: last block file info: CBlockFileInfo(blocks=0, size=0, heights=0...0, time=1970-01-01...1970-01-01)
+2021-04-22 09:06:44 Checking all blk files are present...
+2021-04-22 09:06:44 LoadBlockIndexDB(): transaction index disabled
+2021-04-22 09:06:44 Initializing databases...
+2021-04-22 09:06:44 Pre-allocating up to position 0x1000000 in blk00000.dat
+2021-04-22 09:06:44 New stream. TxID: 73e1d18e2601e8f010624cb5fc1f9ca7c45bcabbd0626545e13b71eb1e4c37bf, StreamRef: 0-81-14271, Name: root
+2021-04-22 09:06:44 UpdateTip:            new best=00e08b01625c5e2dbc40102cb1b06eb6e222b9f0cae6122fa8862daa19c1aded  height=0  log2_work=8  tx=1  date=2021-04-22 08:51:09 progress=1.000000  cache=0
+2021-04-22 09:06:44 init message: Verifying blocks...
+2021-04-22 09:06:44  block index             365ms
+2021-04-22 09:06:44 MultiChain protocol version: 20012
+2021-04-22 09:06:44 init message: Loading wallet...
+2021-04-22 09:06:44 nFileVersion = 100000
+2021-04-22 09:06:44 Keys: 2 plaintext, 0 encrypted, 2 w/ metadata, 2 total
+2021-04-22 09:06:44  wallet                    2ms
+2021-04-22 09:06:44 mapBlockIndex.size() = 1
+2021-04-22 09:06:44 nBestHeight = 0
+2021-04-22 09:06:44 setKeyPool.size() = 1
+2021-04-22 09:06:44 oldWallet.size() = 0
+2021-04-22 09:06:44 mapWallet.size() = 0
+2021-04-22 09:06:44 mapAddressBook.size() = 1
+2021-04-22 09:06:44 init message: Loading addresses...
+2021-04-22 09:06:44 Loaded 0 addresses from peers.dat  0ms
+2021-04-22 09:06:44 AddLocal([fe80::cf1:c730:6e2c:571a]:7415,1)
+2021-04-22 09:06:44 Discover: cplab01 - fe80::cf1:c730:6e2c:571a
+2021-04-22 09:06:44 AddLocal([fe80::9561:46eb:63c6:dd02]:7415,1)
+2021-04-22 09:06:44 Discover: cplab01 - fe80::9561:46eb:63c6:dd02
+2021-04-22 09:06:44 AddLocal([fe80::e:cc85:aae5:576]:7415,1)
+2021-04-22 09:06:44 Discover: cplab01 - fe80::e:cc85:aae5:576
+2021-04-22 09:06:44 AddLocal(192.168.214.1:7415,1)
+2021-04-22 09:06:44 Discover: cplab01 - 192.168.214.1
+2021-04-22 09:06:44 AddLocal(192.168.143.1:7415,1)
+2021-04-22 09:06:44 Discover: cplab01 - 192.168.143.1
+2021-04-22 09:06:44 AddLocal(172.16.25.102:7415,1)
+2021-04-22 09:06:44 Discover: cplab01 - 172.16.25.102
+2021-04-22 09:06:44 dnsseed thread start
+2021-04-22 09:06:44 Loading addresses from DNS seeds (could take a while)
+2021-04-22 09:06:44 0 addresses found from DNS seeds
+2021-04-22 09:06:44 dnsseed thread exit
+2021-04-22 09:06:44 net thread start
+2021-04-22 09:06:44 init message: Done loading
+2021-04-22 09:06:44 opencon thread start
+2021-04-22 09:06:44 addcon thread start
+2021-04-22 09:06:44 dumpaddr thread start
+2021-04-22 09:06:44 msghand thread start
+2021-04-22 09:06:44 MultiChainMiner started
+2021-04-22 09:06:44 Seed node is set, trying to connect to 172.16.26.203:7415...
+2021-04-22 09:06:44 Node started
+2021-04-22 09:06:44 mchn: Sending minimal parameter set to 172.16.26.203:7415
+2021-04-22 09:06:44 mchn: Cannot find address having connect permission, trying default key
+2021-04-22 09:06:44 receive version message: /MultiChain:0.2.0.12/: version 70002, blocks=64, us=172.16.25.102:50052, peer=2
+2021-04-22 09:06:44 Added time data, samples 2, offset +0 (+0 minutes)
+2021-04-22 09:06:44 mchn: Connection from 19CGMgtsx7o4x4B6ZqYRyxNnJg3ActQhVHLsTH received on peer=2 in verack
+2021-04-22 09:06:44 mchn: Cannot find address having connect permission, trying default key
+2021-04-22 09:06:44 mchn: Connection from 19CGMgtsx7o4x4B6ZqYRyxNnJg3ActQhVHLsTH received on peer=2 in verackack (172.16.26.203:7415)
+2021-04-22 09:06:44 mchn: Parameter set from peer=2 verified
+2021-04-22 09:06:45 ResendWalletTransactions()
+2021-04-22 09:06:45 Pre-allocating up to position 0x100000 in rev00000.dat
+2021-04-22 09:06:45 UpdateTip:            new best=004bd240035194580d19f8af374976d4396ba05d46f6ac3ad5c1f44ad1313d55  height=1  log2_work=9  tx=2  date=2021-04-22 08:51:10 progress=1.000000  cache=0
+2021-04-22 09:06:45 UpdateTip:            new best=00e29326e05a54a60b4a1a827ea3d85c6d83b446f0a33160541e28b580b47a43  height=2  log2_work=9.5849625  tx=3  date=2021-04-22 08:51:11 progress=1.000000  cache=0
+2021-04-22 09:06:45 UpdateTip:            new best=0059a6d9b4fca41184aac05c47588013291c1de33a6ab6e5291483742ba9216e  height=3  log2_work=10  tx=4  date=2021-04-22 08:51:16 progress=1.000000  cache=0
+2021-04-22 09:06:46 UpdateTip:            new best=002be30235d42c9560021660ff0a910eb4e057bfe01cc0faa73e7e59c0abc0ea  height=4  log2_work=10.321928  tx=5  date=2021-04-22 08:51:27 progress=1.000000  cache=0
+2021-04-22 09:06:46 UpdateTip:            new best=00e812019cd981563b8f6a41532ab9cd78863682bb90e28c8c2f296ff7451e23  height=5  log2_work=10.584963  tx=6  date=2021-04-22 08:51:35 progress=1.000000  cache=0
+2021-04-22 09:06:46 UpdateTip:            new best=00bc961324428fefd33cfcc27e92da4e6f82a8c41964f0c420681e028f37b00b  height=6  log2_work=10.807355  tx=7  date=2021-04-22 08:51:48 progress=1.000000  cache=0
+2021-04-22 09:06:46 UpdateTip:            new best=0011f2bd5ce41f475c5f56be7f2e6cf457c589484ef93a00ccf3cd52a8ea3343  height=7  log2_work=11  tx=8  date=2021-04-22 08:52:00 progress=1.000000  cache=0
+2021-04-22 09:06:46 UpdateTip:            new best=00f39d9db9cb4af5691fa5e27828fcb70d0ca064d379ab140e2097cacd7c1df6  height=8  log2_work=11.169925  tx=9  date=2021-04-22 08:52:10 progress=1.000000  cache=0
+2021-04-22 09:06:47 UpdateTip:            new best=008b56cebef95993a485405322592e4bf372fb356c63fed9ff5dfd3061a875b7  height=9  log2_work=11.321928  tx=10  date=2021-04-22 08:52:19 progress=1.000000  cache=0
+2021-04-22 09:06:47 New stream. TxID: b4f18239364c9b1e6ca96609efbd067e8cb475c829ae210a596b22a8b0f9aae9, StreamRef: 10-264-43753, Name: stream1
+2021-04-22 09:06:47 UpdateTip:            new best=003f3af410b98267be941b0fdc698d70bcf80c676fb7651f38944fca56565215  height=10  log2_work=11.459432  tx=12  date=2021-04-22 08:52:30 progress=1.000000  cache=0
+2021-04-22 09:06:47 UpdateTip:            new best=008d7f81321c093de97c8b649f840fa641347a7a16733c99645c86ae1970c6d2  height=11  log2_work=11.584963  tx=13  date=2021-04-22 08:52:43 progress=1.000000  cache=0
+2021-04-22 09:06:47 UpdateTip:            new best=00c39057fe9a89787fdf98348d9e052ab766481c310772000589f74eae895cd6  height=12  log2_work=11.70044  tx=14  date=2021-04-22 08:52:50 progress=1.000000  cache=0
+2021-04-22 09:06:47 UpdateTip:            new best=007838a7518690e9cb63b2f730b23c195909b798949b0bcb4d30b5eae5081624  height=13  log2_work=11.807355  tx=15  date=2021-04-22 08:53:04 progress=1.000000  cache=0
+2021-04-22 09:06:48 UpdateTip:            new best=00d3e901e483ef7fb5a45e98d9af914fa71dc052b3d38425817e138588384386  height=14  log2_work=11.906891  tx=16  date=2021-04-22 08:53:12 progress=1.000000  cache=0
+2021-04-22 09:06:48 UpdateTip:            new best=004c8d155fdd09042a4f9a98d2f0816866509c26e6d0b514a4180c57812a5121  height=15  log2_work=12  tx=17  date=2021-04-22 08:53:21 progress=1.000000  cache=0
+2021-04-22 09:06:48 UpdateTip:            new best=00dd54c7286764b5a37620853eb0c55406228e60047865449d4036030e9731bc  height=16  log2_work=12.087463  tx=18  date=2021-04-22 08:53:28 progress=1.000000  cache=0
+2021-04-22 09:06:48 UpdateTip:            new best=00118db14ff5e2b20e9c51cf2facba86397a56d3a56a21856a5badde4d22c776  height=17  log2_work=12.169925  tx=19  date=2021-04-22 08:53:35 progress=1.000000  cache=0
+2021-04-22 09:06:48 UpdateTip:            new best=00e521856ecaa1cb9b62e4a8fb0e3e322f9a09b45a24e1c1ef2ec6821614d46f  height=18  log2_work=12.247928  tx=20  date=2021-04-22 08:53:46 progress=1.000000  cache=0
+2021-04-22 09:06:49 UpdateTip:            new best=00ac4d6c7ded209ec5d9b3f0ada0f52233f0aed893ae654d98a56cb6dea24ef8  height=19  log2_work=12.321928  tx=21  date=2021-04-22 08:53:59 progress=1.000000  cache=0
+2021-04-22 09:06:49 UpdateTip:            new best=00079458aa647c574927ec10d6cc8581f4cb395a662aef697e0b598d3f20453c  height=20  log2_work=12.392317  tx=22  date=2021-04-22 08:54:07 progress=1.000000  cache=0
+2021-04-22 09:06:49 UpdateTip:            new best=00aaab688f08bbafac4679a7b92d039847246e3d402f383015448ff898f55449  height=21  log2_work=12.459432  tx=23  date=2021-04-22 08:54:17 progress=1.000000  cache=0
+2021-04-22 09:06:50 UpdateTip:            new best=002ec517c7c2ce7465e0a52554a6cfdcca4073505f467b8f91232d47eb7f8cd7  height=22  log2_work=12.523562  tx=24  date=2021-04-22 08:54:35 progress=1.000000  cache=0
+2021-04-22 09:06:50 UpdateTip:            new best=00e33f4421aee69ce25588e2d2a8a31f5596a0cd193e562cf6e9ab1056f32ac3  height=23  log2_work=12.584963  tx=25  date=2021-04-22 08:54:39 progress=1.000000  cache=0
+2021-04-22 09:06:50 UpdateTip:            new best=0084df08237a621c2abdd8a7c3e00af1ecaf0e152c5ba19e6ac795dd29523732  height=24  log2_work=12.643856  tx=26  date=2021-04-22 08:54:46 progress=1.000000  cache=0
+2021-04-22 09:06:50 UpdateTip:            new best=0098abdd034e9c879ff0099a42d0cc49aefc9fde10b724b448ec91e3e3d77d95  height=25  log2_work=12.70044  tx=27  date=2021-04-22 08:54:55 progress=1.000000  cache=0
+2021-04-22 09:06:51 UpdateTip:            new best=0034dcd9c48d78135f6f483ba6eb35916b3d88ad3caa4c6103c503ec9f9f8d9e  height=26  log2_work=12.754888  tx=28  date=2021-04-22 08:55:04 progress=1.000000  cache=0
+2021-04-22 09:06:51 UpdateTip:            new best=00562be78bb2e1c490989b0c560518d1e01cf09e70b1c68553c8c957e294e7b1  height=27  log2_work=12.807355  tx=29  date=2021-04-22 08:55:18 progress=1.000000  cache=0
+2021-04-22 09:06:51 UpdateTip:            new best=0076318abcdfaa3fad8599aef5226171ddd81d24eaec04c22d0b074eff1d5fe4  height=28  log2_work=12.857981  tx=30  date=2021-04-22 08:55:29 progress=1.000000  cache=0
+2021-04-22 09:06:51 UpdateTip:            new best=00d571a5c3861b2d08ea422b9e9f29c8098ba1fc6f67149166efe065a26f212d  height=29  log2_work=12.906891  tx=31  date=2021-04-22 08:55:39 progress=1.000000  cache=0
+2021-04-22 09:06:51 UpdateTip:            new best=00cf6e835898f689048c7e9ada000060df6cd9e2d6190524f9b113fc477a437d  height=30  log2_work=12.954196  tx=32  date=2021-04-22 08:55:49 progress=1.000000  cache=0
+2021-04-22 09:06:52 UpdateTip:            new best=006c43fa5b7adeba233926d620b9b4cdee98806e83fc7da7df74431e5d7346c5  height=31  log2_work=13  tx=33  date=2021-04-22 08:56:00 progress=1.000000  cache=0
+2021-04-22 09:06:52 UpdateTip:            new best=004d5de364941957330b1aef51ab51d89aa7e080f09adc7c7258f85c53eca6c2  height=32  log2_work=13.044394  tx=34  date=2021-04-22 08:56:06 progress=1.000000  cache=0
+2021-04-22 09:06:52 UpdateTip:            new best=001db47ae043877a50f11955b10194f0a946637175a20ac6ab21f87ec86d495d  height=33  log2_work=13.087463  tx=35  date=2021-04-22 08:56:20 progress=1.000000  cache=0
+2021-04-22 09:06:52 UpdateTip:            new best=007c17877fe8c3cd3d2de3de959675cf89361d5972ad97bcb97031dc658bd726  height=34  log2_work=13.129283  tx=36  date=2021-04-22 08:56:28 progress=1.000000  cache=0
+2021-04-22 09:06:52 UpdateTip:            new best=00cd12c6d23958c8ab9d6c02281806adbec2faa29ad766a5816f788f390d821b  height=35  log2_work=13.169925  tx=37  date=2021-04-22 08:56:37 progress=1.000000  cache=0
+2021-04-22 09:06:53 UpdateTip:            new best=0039eb9042fb9d41439f4370101edefb29057ed46bb74ed190dd612c209b4aeb  height=36  log2_work=13.209453  tx=38  date=2021-04-22 08:56:44 progress=1.000000  cache=0
+2021-04-22 09:06:53 UpdateTip:            new best=006951f665053fe29a0a56b668cec178d9fc4a1ea0c432e4f758356ce03c55a4  height=37  log2_work=13.247928  tx=39  date=2021-04-22 08:56:59 progress=1.000000  cache=0
+2021-04-22 09:06:53 UpdateTip:            new best=0035061d70cb53e9a5709ea8fe8c19da2a7bfb0e24cee7206cd8ffd889a63ae8  height=38  log2_work=13.285402  tx=40  date=2021-04-22 08:57:11 progress=1.000000  cache=0
+2021-04-22 09:06:53 UpdateTip:            new best=00d361f39f8bc2538a91e1c8241b691fcf31951c7f3d98a17e6c5cd193edea58  height=39  log2_work=13.321928  tx=41  date=2021-04-22 08:57:22 progress=1.000000  cache=0
+2021-04-22 09:06:54 UpdateTip:            new best=00a1daa69a7b6812336a53cab35db592f3e766109558b69c668df692abb9820f  height=40  log2_work=13.357552  tx=42  date=2021-04-22 08:57:29 progress=1.000000  cache=0
+2021-04-22 09:06:54 UpdateTip:            new best=00ed386cf8397cc8e02b38e7d4c79404cc5a21e1e0951a21efd4a3c4ad767505  height=41  log2_work=13.392317  tx=43  date=2021-04-22 08:57:37 progress=1.000000  cache=0
+2021-04-22 09:06:54 UpdateTip:            new best=00ce6ecd2e11c8fdc3a6d5c08e9c6e0b9d8158c729cd21020f5ab01d46726d45  height=42  log2_work=13.426265  tx=44  date=2021-04-22 08:57:53 progress=1.000000  cache=0
+2021-04-22 09:06:55 UpdateTip:            new best=0035e812bc24be756ce920688f21bc1c15c8f7e62569acffe816cae475b97fb6  height=43  log2_work=13.459432  tx=45  date=2021-04-22 08:58:02 progress=1.000000  cache=0
+2021-04-22 09:06:55 UpdateTip:            new best=00c8c04e1be115960f446ea5405802f25afbde993dff77b966112637e9ef0a04  height=44  log2_work=13.491853  tx=46  date=2021-04-22 08:58:14 progress=1.000000  cache=0
+2021-04-22 09:06:55 UpdateTip:            new best=00d9f9bc9949aaa57199acba6665b893dd8a60f33f9ffa6ab9a3f60a576cbdac  height=45  log2_work=13.523562  tx=47  date=2021-04-22 08:58:24 progress=1.000000  cache=0
+2021-04-22 09:06:55 UpdateTip:            new best=00f25027a78015c5e84bf93e8fbf49e435433564d5e6ad98b03bce1d8339ab7f  height=46  log2_work=13.554589  tx=48  date=2021-04-22 08:58:31 progress=1.000000  cache=0
+2021-04-22 09:06:56 UpdateTip:            new best=00ec7b244d1d6a21e72210b085c8872213c18e85f27edf5ba0652bb095e7a269  height=47  log2_work=13.584963  tx=49  date=2021-04-22 08:58:38 progress=1.000000  cache=0
+2021-04-22 09:06:56 UpdateTip:            new best=00c45114f26e53cb00bf649e82201cb8e53441b6afc58f9f860d652dd9b571e8  height=48  log2_work=13.61471  tx=50  date=2021-04-22 08:58:50 progress=1.000000  cache=0
+2021-04-22 09:06:56 UpdateTip:            new best=008245387a60975a3ba026b636daa7e64a6b56201ed8752db8dd469022bdd25f  height=49  log2_work=13.643856  tx=51  date=2021-04-22 08:58:59 progress=1.000000  cache=0
+2021-04-22 09:06:56 UpdateTip:            new best=005c4546b25358e8dcee7f4903ad27f19cdf1eda46eb108b5b2f7030ef99f0fb  height=50  log2_work=13.672425  tx=52  date=2021-04-22 08:59:15 progress=1.000000  cache=0
+2021-04-22 09:06:57 UpdateTip:            new best=00536543f9341d5d2511fdee9d524de3b9633e79206a85817c304ea6327c95ae  height=51  log2_work=13.70044  tx=53  date=2021-04-22 08:59:19 progress=1.000000  cache=0
+2021-04-22 09:06:57 UpdateTip:            new best=00730b687cf75717109b79d3065e89b0321cc1b36de9b540e659f193d0d9f8cb  height=52  log2_work=13.72792  tx=54  date=2021-04-22 08:59:34 progress=1.000000  cache=0
+2021-04-22 09:06:57 UpdateTip:            new best=00113df7ac408eee23bd43a4d7133602659722857d6d7d10c8c3334189fbe91e  height=53  log2_work=13.754888  tx=55  date=2021-04-22 08:59:46 progress=1.000000  cache=0
+2021-04-22 09:06:58 UpdateTip:            new best=002817faafe982e72ab66f9ab9ff546caf2ac30a08028313e62e8eee8268b00b  height=54  log2_work=13.78136  tx=56  date=2021-04-22 08:59:58 progress=1.000000  cache=0
+2021-04-22 09:06:58 UpdateTip:            new best=00e5b54442ed1cba0cfaa6b5015b6d78294e01e955bd09ed75f42ab8c9508a3d  height=55  log2_work=13.807355  tx=57  date=2021-04-22 09:00:08 progress=1.000000  cache=0
+2021-04-22 09:06:58 UpdateTip:            new best=002aad2e56cbad46b4461ed8b70c5dbcaf9289b21c322ece553752cd7fb0bc61  height=56  log2_work=13.83289  tx=58  date=2021-04-22 09:00:15 progress=1.000000  cache=0
+2021-04-22 09:06:59 UpdateTip:            new best=00048c415a0be7b557b768965666166195c84e6b1376c3dff19fb265af0d64f7  height=57  log2_work=13.857981  tx=59  date=2021-04-22 09:00:23 progress=1.000000  cache=0
+2021-04-22 09:06:59 UpdateTip:            new best=00dc24534fd997962a23490a0c3b4febcc44c130b65a3fcf7ee7c127064d8052  height=58  log2_work=13.882643  tx=60  date=2021-04-22 09:00:32 progress=1.000000  cache=0
+2021-04-22 09:06:59 UpdateTip:            new best=00f43a099d960664b555e43a87b00a6b8b6c9758d9ca9eb7878ccd243b4e00c7  height=59  log2_work=13.906891  tx=61  date=2021-04-22 09:00:42 progress=1.000000  cache=0
+2021-04-22 09:06:59 UpdateTip:            new best=006ca45fcec0cdfa24b9b95134d2ef5a7c7de3f7f9a23888f6d4b1fc75500678  height=60  log2_work=13.930737  tx=63  date=2021-04-22 09:03:15 progress=1.000000  cache=0
+2021-04-22 09:06:59 UpdateTip:            new best=00db1b4df3ee5d1f507a89023f8024a24d67552b41745152339e8b9a391fe765  height=61  log2_work=13.954196  tx=65  date=2021-04-22 09:03:35 progress=1.000000  cache=0
+2021-04-22 09:07:00 UpdateTip:            new best=000ac4f7b7b7266bf1f4afc88061f43830c5495e6b0071a2daecce5d543768df  height=62  log2_work=13.97728  tx=67  date=2021-04-22 09:03:52 progress=1.000000  cache=0
+2021-04-22 09:07:00 UpdateTip:            new best=002c3a3471bd3aa9c747138d096899589f9cd6531936b308d77bbad9ba07d9db  height=63  log2_work=14  tx=70  date=2021-04-22 09:05:41 progress=1.000000  cache=0
+2021-04-22 09:07:00 UpdateTip:            new best=00ada2748cc2dffe75e6b52fc5c53c65e6ee4513e4394155cd2642daeb3fdd12  height=64  log2_work=14.022368  tx=72  date=2021-04-22 09:06:00 progress=1.000000  cache=0
+2021-04-22 09:07:00 mchn: Synced with node 2 on block 64 - requesting mempool
+2021-04-22 09:07:12 ResendWalletTransactions()
+2021-04-22 09:14:11 UpdateTip:            new best=000cb7a9b0c7c8c1f10627f884e1adc134f5b0ca89052e861a3d926c6e0eb70a  height=65  log2_work=14.044394  tx=74  date=2021-04-22 09:14:10 progress=1.000000  cache=0
+2021-04-22 09:14:13 ResendWalletTransactions()
+2021-04-22 09:17:53 mchn: Sending minimal parameter set to 172.16.26.203:7415
+2021-04-22 09:17:53 receive version message: /MultiChain:0.2.0.12/: version 70002, blocks=65, us=172.16.25.102:50238, peer=3
+2021-04-22 09:17:53 mchn: Connection from 19CGMgtsx7o4x4B6ZqYRyxNnJg3ActQhVHLsTH received on peer=3 in verack
+2021-04-22 09:17:54 mchn: Connection from 19CGMgtsx7o4x4B6ZqYRyxNnJg3ActQhVHLsTH received on peer=3 in verackack (172.16.26.203:7415)
+2021-04-22 09:17:54 mchn: Parameter set from peer=3 verified
+2021-04-22 09:17:54 mchn: Synced with node 3 on block 65 - requesting mempool
+2021-04-22 09:17:59 addcon thread interrupt
+2021-04-22 09:17:59 opencon thread interrupt
+2021-04-22 09:17:59 msghand thread interrupt
+2021-04-22 09:17:59 dumpaddr thread stop
+2021-04-22 09:17:59 net thread interrupt
+2021-04-22 09:17:59 Shutdown: In progress...
+2021-04-22 09:17:59 RPCAcceptHandler: Error: The I/O operation has been aborted because of either a thread exit or an application request
+2021-04-22 09:17:59 RPCAcceptHandler: Error: The I/O operation has been aborted because of either a thread exit or an application request
+2021-04-22 09:18:00 MultiChainMiner terminated
+2021-04-22 09:18:00 StopNode()
+2021-04-22 09:18:00 Node stopped
+2021-04-22 09:18:00 Shutdown: done
+2021-04-22 09:18:03 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2021-04-22 09:18:03 MultiChain version build 2.1.2 protocol 20012 (Feb 18 2019, 14:27:04)
+2021-04-22 09:18:03 Using OpenSSL version OpenSSL 1.0.1k 8 Jan 2015
+2021-04-22 09:18:03 Using BerkeleyDB version Berkeley DB 4.8.30: (April  9, 2010)
+2021-04-22 09:18:03 Default data directory C:\demo\demochain
+2021-04-22 09:18:03 Using data directory C:\demo\demochain
+2021-04-22 09:18:03 Using config file C:\demo\demochain\demochain.conf
+2021-04-22 09:18:03 Using at most 125 connections (2048 file descriptors available)
+2021-04-22 09:18:03 Using 8 threads for script verification
+2021-04-22 09:18:03 Using wallet wallet.dat
+2021-04-22 09:18:03 init message: Verifying wallet...
+2021-04-22 09:18:03 Wallet file exists. WalletDBVersion: 3.
+2021-04-22 09:18:03 Binding RPC on address ::1 port 7414 (IPv4+IPv6 bind any: 0)
+2021-04-22 09:18:03 Binding RPC on address 127.0.0.1 port 7414 (IPv4+IPv6 bind any: 0)
+2021-04-22 09:18:03 init message: Initializing multichain...
+2021-04-22 09:18:03 mchn: Seed address resolved: 172.16.26.203:7415
+2021-04-22 09:18:03 mchn: Parameter set is valid - initializing blockchain parameters...
+2021-04-22 09:18:03 Wallet mode: 00000103
+2021-04-22 09:18:03 nFileVersion = 100000
+2021-04-22 09:18:03 Keys: 2 plaintext, 0 encrypted, 2 w/ metadata, 2 total
+2021-04-22 09:18:03 Node paused state is set to 00000000
+2021-04-22 09:18:03 Bound to [::]:7415
+2021-04-22 09:18:03 Bound to 0.0.0.0:7415
+2021-04-22 09:18:03 Filter initialization completed
+2021-04-22 09:18:03 Setting banned transaction list:    0 transactions
+2021-04-22 09:18:03 init message: Loading block index...
+2021-04-22 09:18:03 Opening LevelDB in C:\demo\demochain\blocks\index
+2021-04-22 09:18:03 Opened LevelDB successfully
+2021-04-22 09:18:03 Opening LevelDB in C:\demo\demochain\chainstate
+2021-04-22 09:18:03 Opened LevelDB successfully
+2021-04-22 09:18:03 nFileVersion = 100000
+2021-04-22 09:18:03 Keys: 2 plaintext, 0 encrypted, 2 w/ metadata, 2 total
+2021-04-22 09:18:03 LoadBlockIndexDB: last block file = 0
+2021-04-22 09:18:03 LoadBlockIndexDB: last block file info: CBlockFileInfo(blocks=66, size=20557, heights=0...65, time=2021-04-22...2021-04-22)
+2021-04-22 09:18:03 Checking all blk files are present...
+2021-04-22 09:18:03 LoadBlockIndexDB(): transaction index enabled
+2021-04-22 09:18:03 LoadBlockIndexDB(): hashBestChain=000cb7a9b0c7c8c1f10627f884e1adc134f5b0ca89052e861a3d926c6e0eb70a height=65 date=2021-04-22 09:14:10 progress=1.000000
+2021-04-22 09:18:03 init message: Verifying blocks...
+2021-04-22 09:18:03 Verifying last 65 blocks at level 3
+2021-04-22 09:18:03 No coin database inconsistencies in last 65 blocks (73 transactions)
+2021-04-22 09:18:03  block index              60ms
+2021-04-22 09:18:03 MultiChain protocol version: 20012
+2021-04-22 09:18:03 init message: Loading wallet...
+2021-04-22 09:18:03 nFileVersion = 100000
+2021-04-22 09:18:03 Keys: 2 plaintext, 0 encrypted, 2 w/ metadata, 2 total
+2021-04-22 09:18:03  wallet                    1ms
+2021-04-22 09:18:03 mapBlockIndex.size() = 66
+2021-04-22 09:18:03 nBestHeight = 65
+2021-04-22 09:18:03 setKeyPool.size() = 1
+2021-04-22 09:18:03 oldWallet.size() = 0
+2021-04-22 09:18:03 mapWallet.size() = 6
+2021-04-22 09:18:03 mapAddressBook.size() = 1
+2021-04-22 09:18:03 init message: Loading addresses...
+2021-04-22 09:18:03 Loaded 2 addresses from peers.dat  0ms
+2021-04-22 09:18:03 AddLocal([fe80::cf1:c730:6e2c:571a]:7415,1)
+2021-04-22 09:18:03 Discover: cplab01 - fe80::cf1:c730:6e2c:571a
+2021-04-22 09:18:03 AddLocal([fe80::9561:46eb:63c6:dd02]:7415,1)
+2021-04-22 09:18:03 Discover: cplab01 - fe80::9561:46eb:63c6:dd02
+2021-04-22 09:18:03 AddLocal([fe80::e:cc85:aae5:576]:7415,1)
+2021-04-22 09:18:03 Discover: cplab01 - fe80::e:cc85:aae5:576
+2021-04-22 09:18:03 AddLocal(192.168.214.1:7415,1)
+2021-04-22 09:18:03 Discover: cplab01 - 192.168.214.1
+2021-04-22 09:18:03 AddLocal(192.168.143.1:7415,1)
+2021-04-22 09:18:03 Discover: cplab01 - 192.168.143.1
+2021-04-22 09:18:03 AddLocal(172.16.25.102:7415,1)
+2021-04-22 09:18:03 Discover: cplab01 - 172.16.25.102
+2021-04-22 09:18:03 dnsseed thread start
+2021-04-22 09:18:03 net thread start
+2021-04-22 09:18:03 addcon thread start
+2021-04-22 09:18:03 opencon thread start
+2021-04-22 09:18:03 Seed node is set, trying to connect to 172.16.26.203:7415...
+2021-04-22 09:18:03 msghand thread start
+2021-04-22 09:18:03 MultiChainMiner started
+2021-04-22 09:18:03 dumpaddr thread start
+2021-04-22 09:18:03 init message: Done loading
+2021-04-22 09:18:03 Node started
+2021-04-22 09:18:04 mchn: Sending minimal parameter set to 172.16.26.203:7415
+2021-04-22 09:18:04 receive version message: /MultiChain:0.2.0.12/: version 70002, blocks=65, us=172.16.25.102:50240, peer=1
+2021-04-22 09:18:04 Added time data, samples 2, offset -1 (+0 minutes)
+2021-04-22 09:18:04 mchn: Connection from 19CGMgtsx7o4x4B6ZqYRyxNnJg3ActQhVHLsTH received on peer=1 in verack
+2021-04-22 09:18:04 mchn: Connection from 19CGMgtsx7o4x4B6ZqYRyxNnJg3ActQhVHLsTH received on peer=1 in verackack (172.16.26.203:7415)
+2021-04-22 09:18:04 mchn: Parameter set from peer=1 verified
+2021-04-22 09:18:04 mchn: Sending minimal parameter set to 172.16.26.203:52898
+2021-04-22 09:18:04 receive version message: /MultiChain:0.2.0.12/: version 70002, blocks=65, us=172.16.25.102:7415, peer=2
+2021-04-22 09:18:04 mchn: Synced with node 1 on block 65 - requesting mempool
+2021-04-22 09:18:04 mchn: Connection from 19CGMgtsx7o4x4B6ZqYRyxNnJg3ActQhVHLsTH received on peer=2 in verack
+2021-04-22 09:18:04 mchn: Connection from 19CGMgtsx7o4x4B6ZqYRyxNnJg3ActQhVHLsTH received on peer=2 in verackack (172.16.26.203:52898)
+2021-04-22 09:18:04 mchn: Parameter set from peer=2 verified
+2021-04-22 09:18:04 mchn: Synced with node 2 on block 65 - requesting mempool
+2021-04-22 09:18:10 UpdateTip:            new best=00adbc5e68f6bf7611ed5590bf6cad7a3010976de30528e0fbf9f771888defd6  height=66  log2_work=14.066089  tx=76  date=2021-04-22 09:18:09 progress=1.000000  cache=0
+2021-04-22 09:18:14 P2P peers available. Skipped DNS seeding.
+2021-04-22 09:18:14 dnsseed thread exit
+2021-04-22 09:18:33 ResendWalletTransactions()
+2021-04-22 09:19:04 addcon thread interrupt
+2021-04-22 09:19:04 msghand thread interrupt
+2021-04-22 09:19:04 opencon thread interrupt
+2021-04-22 09:19:04 dumpaddr thread stop
+2021-04-22 09:19:04 net thread interrupt
+2021-04-22 09:19:04 Shutdown: In progress...
+2021-04-22 09:19:04 RPCAcceptHandler: Error: The I/O operation has been aborted because of either a thread exit or an application request
+2021-04-22 09:19:04 RPCAcceptHandler: Error: The I/O operation has been aborted because of either a thread exit or an application request
+2021-04-22 09:19:04 MultiChainMiner terminated
+2021-04-22 09:19:04 StopNode()
+2021-04-22 09:19:04 Node stopped
+2021-04-22 09:19:04 Shutdown: done
+2021-04-22 09:19:07 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2021-04-22 09:19:07 MultiChain version build 2.1.2 protocol 20012 (Feb 18 2019, 14:27:04)
+2021-04-22 09:19:07 Using OpenSSL version OpenSSL 1.0.1k 8 Jan 2015
+2021-04-22 09:19:07 Using BerkeleyDB version Berkeley DB 4.8.30: (April  9, 2010)
+2021-04-22 09:19:07 Default data directory C:\demo\demochain
+2021-04-22 09:19:07 Using data directory C:\demo\demochain
+2021-04-22 09:19:07 Using config file C:\demo\demochain\demochain.conf
+2021-04-22 09:19:07 Using at most 125 connections (2048 file descriptors available)
+2021-04-22 09:19:07 Using 8 threads for script verification
+2021-04-22 09:19:07 Using wallet wallet.dat
+2021-04-22 09:19:07 init message: Verifying wallet...
+2021-04-22 09:19:07 Wallet file exists. WalletDBVersion: 3.
+2021-04-22 09:19:07 Binding RPC on address ::1 port 7414 (IPv4+IPv6 bind any: 0)
+2021-04-22 09:19:07 Binding RPC on address 127.0.0.1 port 7414 (IPv4+IPv6 bind any: 0)
+2021-04-22 09:19:07 init message: Initializing multichain...
+2021-04-22 09:19:07 mchn: Seed address resolved: 172.16.26.203:7415
+2021-04-22 09:19:07 mchn: Parameter set is valid - initializing blockchain parameters...
+2021-04-22 09:19:07 Wallet mode: 00000103
+2021-04-22 09:19:07 nFileVersion = 100000
+2021-04-22 09:19:07 Keys: 2 plaintext, 0 encrypted, 2 w/ metadata, 2 total
+2021-04-22 09:19:07 Node paused state is set to 00000000
+2021-04-22 09:19:07 Bound to [::]:7415
+2021-04-22 09:19:07 Bound to 0.0.0.0:7415
+2021-04-22 09:19:07 Filter initialization completed
+2021-04-22 09:19:07 Setting banned transaction list:    0 transactions
+2021-04-22 09:19:07 init message: Loading block index...
+2021-04-22 09:19:07 Opening LevelDB in C:\demo\demochain\blocks\index
+2021-04-22 09:19:07 Opened LevelDB successfully
+2021-04-22 09:19:07 Opening LevelDB in C:\demo\demochain\chainstate
+2021-04-22 09:19:07 Opened LevelDB successfully
+2021-04-22 09:19:07 nFileVersion = 100000
+2021-04-22 09:19:07 Keys: 2 plaintext, 0 encrypted, 2 w/ metadata, 2 total
+2021-04-22 09:19:07 LoadBlockIndexDB: last block file = 0
+2021-04-22 09:19:07 LoadBlockIndexDB: last block file info: CBlockFileInfo(blocks=67, size=21594, heights=0...66, time=2021-04-22...2021-04-22)
+2021-04-22 09:19:07 Checking all blk files are present...
+2021-04-22 09:19:07 LoadBlockIndexDB(): transaction index enabled
+2021-04-22 09:19:07 LoadBlockIndexDB(): hashBestChain=00adbc5e68f6bf7611ed5590bf6cad7a3010976de30528e0fbf9f771888defd6 height=66 date=2021-04-22 09:18:09 progress=1.000000
+2021-04-22 09:19:07 init message: Verifying blocks...
+2021-04-22 09:19:07 Verifying last 66 blocks at level 3
+2021-04-22 09:19:07 No coin database inconsistencies in last 66 blocks (75 transactions)
+2021-04-22 09:19:07  block index              79ms
+2021-04-22 09:19:07 MultiChain protocol version: 20012
+2021-04-22 09:19:07 init message: Loading wallet...
+2021-04-22 09:19:07 nFileVersion = 100000
+2021-04-22 09:19:07 Keys: 2 plaintext, 0 encrypted, 2 w/ metadata, 2 total
+2021-04-22 09:19:07  wallet                    1ms
+2021-04-22 09:19:07 mapBlockIndex.size() = 67
+2021-04-22 09:19:07 nBestHeight = 66
+2021-04-22 09:19:07 setKeyPool.size() = 1
+2021-04-22 09:19:07 oldWallet.size() = 0
+2021-04-22 09:19:07 mapWallet.size() = 7
+2021-04-22 09:19:07 mapAddressBook.size() = 1
+2021-04-22 09:19:07 init message: Loading addresses...
+2021-04-22 09:19:07 Loaded 2 addresses from peers.dat  0ms
+2021-04-22 09:19:07 AddLocal([fe80::cf1:c730:6e2c:571a]:7415,1)
+2021-04-22 09:19:07 Discover: cplab01 - fe80::cf1:c730:6e2c:571a
+2021-04-22 09:19:07 AddLocal([fe80::9561:46eb:63c6:dd02]:7415,1)
+2021-04-22 09:19:07 Discover: cplab01 - fe80::9561:46eb:63c6:dd02
+2021-04-22 09:19:07 AddLocal([fe80::e:cc85:aae5:576]:7415,1)
+2021-04-22 09:19:07 Discover: cplab01 - fe80::e:cc85:aae5:576
+2021-04-22 09:19:07 AddLocal(192.168.214.1:7415,1)
+2021-04-22 09:19:07 Discover: cplab01 - 192.168.214.1
+2021-04-22 09:19:07 AddLocal(192.168.143.1:7415,1)
+2021-04-22 09:19:07 Discover: cplab01 - 192.168.143.1
+2021-04-22 09:19:07 AddLocal(172.16.25.102:7415,1)
+2021-04-22 09:19:07 Discover: cplab01 - 172.16.25.102
+2021-04-22 09:19:07 dnsseed thread start
+2021-04-22 09:19:07 opencon thread start
+2021-04-22 09:19:07 Seed node is set, trying to connect to 172.16.26.203:7415...
+2021-04-22 09:19:07 MultiChainMiner started
+2021-04-22 09:19:07 net thread start
+2021-04-22 09:19:07 msghand thread start
+2021-04-22 09:19:07 dumpaddr thread start
+2021-04-22 09:19:07 init message: Done loading
+2021-04-22 09:19:07 addcon thread start
+2021-04-22 09:19:07 Node started
+2021-04-22 09:19:07 mchn: Sending minimal parameter set to 172.16.26.203:7415
+2021-04-22 09:19:07 receive version message: /MultiChain:0.2.0.12/: version 70002, blocks=66, us=172.16.25.102:50244, peer=1
+2021-04-22 09:19:07 Added time data, samples 2, offset +0 (+0 minutes)
+2021-04-22 09:19:07 mchn: Connection from 19CGMgtsx7o4x4B6ZqYRyxNnJg3ActQhVHLsTH received on peer=1 in verack
+2021-04-22 09:19:07 mchn: Connection from 19CGMgtsx7o4x4B6ZqYRyxNnJg3ActQhVHLsTH received on peer=1 in verackack (172.16.26.203:7415)
+2021-04-22 09:19:07 mchn: Parameter set from peer=1 verified
+2021-04-22 09:19:08 mchn: Sending minimal parameter set to 172.16.26.203:52905
+2021-04-22 09:19:08 receive version message: /MultiChain:0.2.0.12/: version 70002, blocks=66, us=172.16.25.102:7415, peer=2
+2021-04-22 09:19:08 mchn: Synced with node 1 on block 66 - requesting mempool
+2021-04-22 09:19:08 mchn: Connection from 19CGMgtsx7o4x4B6ZqYRyxNnJg3ActQhVHLsTH received on peer=2 in verack
+2021-04-22 09:19:08 mchn: Connection from 19CGMgtsx7o4x4B6ZqYRyxNnJg3ActQhVHLsTH received on peer=2 in verackack (172.16.26.203:52905)
+2021-04-22 09:19:08 mchn: Parameter set from peer=2 verified
+2021-04-22 09:19:08 mchn: Synced with node 2 on block 66 - requesting mempool
+2021-04-22 09:19:18 P2P peers available. Skipped DNS seeding.
+2021-04-22 09:19:18 dnsseed thread exit
+2021-04-22 09:19:23 UpdateTip:            new best=0016ac5e7ba987baf6038a14261d638e28db6a7669bac73799b3fd0e4a38ec58  height=67  log2_work=14.087463  tx=78  date=2021-04-22 09:19:22 progress=1.000000  cache=0
+2021-04-22 09:19:27 ResendWalletTransactions()
+2021-04-22 09:20:08 addcon thread interrupt
+2021-04-22 09:20:08 dumpaddr thread stop
+2021-04-22 09:20:08 opencon thread interrupt
+2021-04-22 09:20:08 msghand thread interrupt
+2021-04-22 09:20:08 net thread interrupt
+2021-04-22 09:20:08 Shutdown: In progress...
+2021-04-22 09:20:08 RPCAcceptHandler: Error: The I/O operation has been aborted because of either a thread exit or an application request
+2021-04-22 09:20:08 RPCAcceptHandler: Error: The I/O operation has been aborted because of either a thread exit or an application request
+2021-04-22 09:20:08 MultiChainMiner terminated
+2021-04-22 09:20:08 StopNode()
+2021-04-22 09:20:08 Node stopped
+2021-04-22 09:20:08 Shutdown: done
+2021-04-22 09:20:11 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2021-04-22 09:20:11 MultiChain version build 2.1.2 protocol 20012 (Feb 18 2019, 14:27:04)
+2021-04-22 09:20:11 Using OpenSSL version OpenSSL 1.0.1k 8 Jan 2015
+2021-04-22 09:20:11 Using BerkeleyDB version Berkeley DB 4.8.30: (April  9, 2010)
+2021-04-22 09:20:11 Default data directory C:\demo\demochain
+2021-04-22 09:20:11 Using data directory C:\demo\demochain
+2021-04-22 09:20:11 Using config file C:\demo\demochain\demochain.conf
+2021-04-22 09:20:11 Using at most 125 connections (2048 file descriptors available)
+2021-04-22 09:20:11 Using 8 threads for script verification
+2021-04-22 09:20:11 Using wallet wallet.dat
+2021-04-22 09:20:11 init message: Verifying wallet...
+2021-04-22 09:20:11 Wallet file exists. WalletDBVersion: 3.
+2021-04-22 09:20:11 Binding RPC on address ::1 port 7414 (IPv4+IPv6 bind any: 0)
+2021-04-22 09:20:11 Binding RPC on address 127.0.0.1 port 7414 (IPv4+IPv6 bind any: 0)
+2021-04-22 09:20:11 init message: Initializing multichain...
+2021-04-22 09:20:11 mchn: Seed address resolved: 172.16.26.203:7415
+2021-04-22 09:20:11 mchn: Parameter set is valid - initializing blockchain parameters...
+2021-04-22 09:20:11 Wallet mode: 00000103
+2021-04-22 09:20:11 nFileVersion = 100000
+2021-04-22 09:20:11 Keys: 2 plaintext, 0 encrypted, 2 w/ metadata, 2 total
+2021-04-22 09:20:11 Node paused state is set to 00000000
+2021-04-22 09:20:11 Bound to [::]:7415
+2021-04-22 09:20:11 Bound to 0.0.0.0:7415
+2021-04-22 09:20:11 Filter initialization completed
+2021-04-22 09:20:11 Setting banned transaction list:    0 transactions
+2021-04-22 09:20:11 init message: Loading block index...
+2021-04-22 09:20:11 Opening LevelDB in C:\demo\demochain\blocks\index
+2021-04-22 09:20:11 Opened LevelDB successfully
+2021-04-22 09:20:11 Opening LevelDB in C:\demo\demochain\chainstate
+2021-04-22 09:20:11 Opened LevelDB successfully
+2021-04-22 09:20:11 nFileVersion = 100000
+2021-04-22 09:20:11 Keys: 2 plaintext, 0 encrypted, 2 w/ metadata, 2 total
+2021-04-22 09:20:11 LoadBlockIndexDB: last block file = 0
+2021-04-22 09:20:11 LoadBlockIndexDB: last block file info: CBlockFileInfo(blocks=68, size=22630, heights=0...67, time=2021-04-22...2021-04-22)
+2021-04-22 09:20:11 Checking all blk files are present...
+2021-04-22 09:20:11 LoadBlockIndexDB(): transaction index enabled
+2021-04-22 09:20:11 LoadBlockIndexDB(): hashBestChain=0016ac5e7ba987baf6038a14261d638e28db6a7669bac73799b3fd0e4a38ec58 height=67 date=2021-04-22 09:19:22 progress=1.000000
+2021-04-22 09:20:11 init message: Verifying blocks...
+2021-04-22 09:20:11 Verifying last 67 blocks at level 3
+2021-04-22 09:20:11 No coin database inconsistencies in last 67 blocks (77 transactions)
+2021-04-22 09:20:11  block index             116ms
+2021-04-22 09:20:11 MultiChain protocol version: 20012
+2021-04-22 09:20:11 init message: Loading wallet...
+2021-04-22 09:20:11 nFileVersion = 100000
+2021-04-22 09:20:11 Keys: 2 plaintext, 0 encrypted, 2 w/ metadata, 2 total
+2021-04-22 09:20:11  wallet                    1ms
+2021-04-22 09:20:11 mapBlockIndex.size() = 68
+2021-04-22 09:20:11 nBestHeight = 67
+2021-04-22 09:20:11 setKeyPool.size() = 1
+2021-04-22 09:20:11 oldWallet.size() = 0
+2021-04-22 09:20:11 mapWallet.size() = 8
+2021-04-22 09:20:11 mapAddressBook.size() = 1
+2021-04-22 09:20:11 init message: Loading addresses...
+2021-04-22 09:20:11 Loaded 2 addresses from peers.dat  0ms
+2021-04-22 09:20:11 AddLocal([fe80::cf1:c730:6e2c:571a]:7415,1)
+2021-04-22 09:20:11 Discover: cplab01 - fe80::cf1:c730:6e2c:571a
+2021-04-22 09:20:11 AddLocal([fe80::9561:46eb:63c6:dd02]:7415,1)
+2021-04-22 09:20:11 Discover: cplab01 - fe80::9561:46eb:63c6:dd02
+2021-04-22 09:20:11 AddLocal([fe80::e:cc85:aae5:576]:7415,1)
+2021-04-22 09:20:11 Discover: cplab01 - fe80::e:cc85:aae5:576
+2021-04-22 09:20:11 AddLocal(192.168.214.1:7415,1)
+2021-04-22 09:20:11 Discover: cplab01 - 192.168.214.1
+2021-04-22 09:20:11 AddLocal(192.168.143.1:7415,1)
+2021-04-22 09:20:11 Discover: cplab01 - 192.168.143.1
+2021-04-22 09:20:11 AddLocal(172.16.25.102:7415,1)
+2021-04-22 09:20:11 Discover: cplab01 - 172.16.25.102
+2021-04-22 09:20:11 dnsseed thread start
+2021-04-22 09:20:11 init message: Done loading
+2021-04-22 09:20:11 dumpaddr thread start
+2021-04-22 09:20:11 MultiChainMiner started
+2021-04-22 09:20:11 opencon thread start
+2021-04-22 09:20:11 Seed node is set, trying to connect to 172.16.26.203:7415...
+2021-04-22 09:20:11 net thread start
+2021-04-22 09:20:11 addcon thread start
+2021-04-22 09:20:11 msghand thread start
+2021-04-22 09:20:11 Node started
+2021-04-22 09:20:11 mchn: Sending minimal parameter set to 172.16.26.203:7415
+2021-04-22 09:20:11 receive version message: /MultiChain:0.2.0.12/: version 70002, blocks=67, us=172.16.25.102:50247, peer=1
+2021-04-22 09:20:11 Added time data, samples 2, offset +0 (+0 minutes)
+2021-04-22 09:20:11 mchn: Connection from 19CGMgtsx7o4x4B6ZqYRyxNnJg3ActQhVHLsTH received on peer=1 in verack
+2021-04-22 09:20:11 mchn: Sending minimal parameter set to 172.16.26.203:52913
+2021-04-22 09:20:11 receive version message: /MultiChain:0.2.0.12/: version 70002, blocks=67, us=172.16.25.102:7415, peer=2
+2021-04-22 09:20:11 mchn: Connection from 19CGMgtsx7o4x4B6ZqYRyxNnJg3ActQhVHLsTH received on peer=1 in verackack (172.16.26.203:7415)
+2021-04-22 09:20:11 mchn: Parameter set from peer=1 verified
+2021-04-22 09:20:11 mchn: Connection from 19CGMgtsx7o4x4B6ZqYRyxNnJg3ActQhVHLsTH received on peer=2 in verack
+2021-04-22 09:20:11 mchn: Connection from 19CGMgtsx7o4x4B6ZqYRyxNnJg3ActQhVHLsTH received on peer=2 in verackack (172.16.26.203:52913)
+2021-04-22 09:20:11 mchn: Parameter set from peer=2 verified
+2021-04-22 09:20:11 mchn: Synced with node 1 on block 67 - requesting mempool
+2021-04-22 09:20:11 mchn: Synced with node 2 on block 67 - requesting mempool
+2021-04-22 09:20:22 P2P peers available. Skipped DNS seeding.
+2021-04-22 09:20:22 dnsseed thread exit
+2021-04-22 09:20:40 ResendWalletTransactions()
+2021-04-22 09:21:06 UpdateTip:            new best=005fe2bde8d84eb8ca9e1c958d3ce64e5b6121ae4aecfb27bb5409c755076e17  height=68  log2_work=14.108524  tx=80  date=2021-04-22 09:21:06 progress=1.000000  cache=0
+2021-04-22 09:21:31 ResendWalletTransactions()
+2021-04-22 09:21:54 addcon thread interrupt
+2021-04-22 09:21:54 msghand thread interrupt
+2021-04-22 09:21:54 dumpaddr thread stop
+2021-04-22 09:21:54 opencon thread interrupt
+2021-04-22 09:21:54 net thread interrupt
+2021-04-22 09:21:54 Shutdown: In progress...
+2021-04-22 09:21:54 RPCAcceptHandler: Error: The I/O operation has been aborted because of either a thread exit or an application request
+2021-04-22 09:21:54 RPCAcceptHandler: Error: The I/O operation has been aborted because of either a thread exit or an application request
+2021-04-22 09:21:54 MultiChainMiner terminated
+2021-04-22 09:21:54 StopNode()
+2021-04-22 09:21:54 Node stopped
+2021-04-22 09:21:54 Shutdown: done
+2021-04-22 09:21:58 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2021-04-22 09:21:58 MultiChain version build 2.1.2 protocol 20012 (Feb 18 2019, 14:27:04)
+2021-04-22 09:21:58 Using OpenSSL version OpenSSL 1.0.1k 8 Jan 2015
+2021-04-22 09:21:58 Using BerkeleyDB version Berkeley DB 4.8.30: (April  9, 2010)
+2021-04-22 09:21:58 Default data directory C:\demo\demochain
+2021-04-22 09:21:58 Using data directory C:\demo\demochain
+2021-04-22 09:21:58 Using config file C:\demo\demochain\demochain.conf
+2021-04-22 09:21:58 Using at most 125 connections (2048 file descriptors available)
+2021-04-22 09:21:58 Using 8 threads for script verification
+2021-04-22 09:21:58 Using wallet wallet.dat
+2021-04-22 09:21:58 init message: Verifying wallet...
+2021-04-22 09:21:58 Wallet file exists. WalletDBVersion: 3.
+2021-04-22 09:21:58 Binding RPC on address ::1 port 7414 (IPv4+IPv6 bind any: 0)
+2021-04-22 09:21:58 Binding RPC on address 127.0.0.1 port 7414 (IPv4+IPv6 bind any: 0)
+2021-04-22 09:21:58 init message: Initializing multichain...
+2021-04-22 09:21:58 mchn: Seed address resolved: 172.16.26.203:7415
+2021-04-22 09:21:58 mchn: Parameter set is valid - initializing blockchain parameters...
+2021-04-22 09:21:58 Wallet mode: 00000103
+2021-04-22 09:21:58 nFileVersion = 100000
+2021-04-22 09:21:58 Keys: 2 plaintext, 0 encrypted, 2 w/ metadata, 2 total
+2021-04-22 09:21:58 Node paused state is set to 00000000
+2021-04-22 09:21:58 Bound to [::]:7415
+2021-04-22 09:21:58 Bound to 0.0.0.0:7415
+2021-04-22 09:21:58 Filter initialization completed
+2021-04-22 09:21:58 Setting banned transaction list:    0 transactions
+2021-04-22 09:21:58 init message: Loading block index...
+2021-04-22 09:21:58 Opening LevelDB in C:\demo\demochain\blocks\index
+2021-04-22 09:21:58 Opened LevelDB successfully
+2021-04-22 09:21:58 Opening LevelDB in C:\demo\demochain\chainstate
+2021-04-22 09:21:58 Opened LevelDB successfully
+2021-04-22 09:21:58 nFileVersion = 100000
+2021-04-22 09:21:58 Keys: 2 plaintext, 0 encrypted, 2 w/ metadata, 2 total
+2021-04-22 09:21:58 LoadBlockIndexDB: last block file = 0
+2021-04-22 09:21:58 LoadBlockIndexDB: last block file info: CBlockFileInfo(blocks=69, size=23667, heights=0...68, time=2021-04-22...2021-04-22)
+2021-04-22 09:21:58 Checking all blk files are present...
+2021-04-22 09:21:58 LoadBlockIndexDB(): transaction index enabled
+2021-04-22 09:21:58 LoadBlockIndexDB(): hashBestChain=005fe2bde8d84eb8ca9e1c958d3ce64e5b6121ae4aecfb27bb5409c755076e17 height=68 date=2021-04-22 09:21:06 progress=1.000000
+2021-04-22 09:21:58 init message: Verifying blocks...
+2021-04-22 09:21:58 Verifying last 68 blocks at level 3
+2021-04-22 09:21:58 No coin database inconsistencies in last 68 blocks (79 transactions)
+2021-04-22 09:21:58  block index              90ms
+2021-04-22 09:21:58 MultiChain protocol version: 20012
+2021-04-22 09:21:58 init message: Loading wallet...
+2021-04-22 09:21:58 nFileVersion = 100000
+2021-04-22 09:21:58 Keys: 2 plaintext, 0 encrypted, 2 w/ metadata, 2 total
+2021-04-22 09:21:58  wallet                    1ms
+2021-04-22 09:21:58 mapBlockIndex.size() = 69
+2021-04-22 09:21:58 nBestHeight = 68
+2021-04-22 09:21:58 setKeyPool.size() = 1
+2021-04-22 09:21:58 oldWallet.size() = 0
+2021-04-22 09:21:58 mapWallet.size() = 9
+2021-04-22 09:21:58 mapAddressBook.size() = 1
+2021-04-22 09:21:58 init message: Loading addresses...
+2021-04-22 09:21:58 Loaded 2 addresses from peers.dat  0ms
+2021-04-22 09:21:58 AddLocal([fe80::cf1:c730:6e2c:571a]:7415,1)
+2021-04-22 09:21:58 Discover: cplab01 - fe80::cf1:c730:6e2c:571a
+2021-04-22 09:21:58 AddLocal([fe80::9561:46eb:63c6:dd02]:7415,1)
+2021-04-22 09:21:58 Discover: cplab01 - fe80::9561:46eb:63c6:dd02
+2021-04-22 09:21:58 AddLocal([fe80::e:cc85:aae5:576]:7415,1)
+2021-04-22 09:21:58 Discover: cplab01 - fe80::e:cc85:aae5:576
+2021-04-22 09:21:58 AddLocal(192.168.214.1:7415,1)
+2021-04-22 09:21:58 Discover: cplab01 - 192.168.214.1
+2021-04-22 09:21:58 AddLocal(192.168.143.1:7415,1)
+2021-04-22 09:21:58 Discover: cplab01 - 192.168.143.1
+2021-04-22 09:21:58 AddLocal(172.16.25.102:7415,1)
+2021-04-22 09:21:58 Discover: cplab01 - 172.16.25.102
+2021-04-22 09:21:58 dnsseed thread start
+2021-04-22 09:21:58 init message: Done loading
+2021-04-22 09:21:58 net thread start
+2021-04-22 09:21:58 addcon thread start
+2021-04-22 09:21:58 opencon thread start
+2021-04-22 09:21:58 msghand thread start
+2021-04-22 09:21:58 dumpaddr thread start
+2021-04-22 09:21:58 MultiChainMiner started
+2021-04-22 09:21:58 Seed node is set, trying to connect to 172.16.26.203:7415...
+2021-04-22 09:21:58 Node started
+2021-04-22 09:21:58 mchn: Sending minimal parameter set to 172.16.26.203:7415
+2021-04-22 09:21:58 receive version message: /MultiChain:0.2.0.12/: version 70002, blocks=68, us=172.16.25.102:50254, peer=1
+2021-04-22 09:21:58 Added time data, samples 2, offset +0 (+0 minutes)
+2021-04-22 09:21:58 mchn: Connection from 19CGMgtsx7o4x4B6ZqYRyxNnJg3ActQhVHLsTH received on peer=1 in verack
+2021-04-22 09:21:58 mchn: Connection from 19CGMgtsx7o4x4B6ZqYRyxNnJg3ActQhVHLsTH received on peer=1 in verackack (172.16.26.203:7415)
+2021-04-22 09:21:58 mchn: Parameter set from peer=1 verified
+2021-04-22 09:21:58 mchn: Synced with node 1 on block 68 - requesting mempool
+2021-04-22 09:21:59 mchn: Sending minimal parameter set to 172.16.26.203:52931
+2021-04-22 09:21:59 receive version message: /MultiChain:0.2.0.12/: version 70002, blocks=68, us=172.16.25.102:7415, peer=2
+2021-04-22 09:21:59 mchn: Connection from 19CGMgtsx7o4x4B6ZqYRyxNnJg3ActQhVHLsTH received on peer=2 in verack
+2021-04-22 09:21:59 mchn: Connection from 19CGMgtsx7o4x4B6ZqYRyxNnJg3ActQhVHLsTH received on peer=2 in verackack (172.16.26.203:52931)
+2021-04-22 09:21:59 mchn: Parameter set from peer=2 verified
+2021-04-22 09:21:59 mchn: Synced with node 2 on block 68 - requesting mempool
+2021-04-22 09:22:06 ResendWalletTransactions()
+2021-04-22 09:22:09 P2P peers available. Skipped DNS seeding.
+2021-04-22 09:22:09 dnsseed thread exit
+2021-04-22 09:22:17 UpdateTip:            new best=00f30104814d9970c0715011887ff3a60dba7bab752f767eb46bf9d1d92fe33d  height=69  log2_work=14.129283  tx=83  date=2021-04-22 09:22:16 progress=1.000000  cache=0
+2021-04-22 09:22:23 ResendWalletTransactions()
+2021-04-22 09:22:29 UpdateTip:            new best=00cdd9c8e07f93db33bf98637ff2e0a4aca472eea5641d0d612954a8203b7f84  height=70  log2_work=14.149747  tx=85  date=2021-04-22 09:22:28 progress=1.000000  cache=0
+2021-04-22 09:22:45 ResendWalletTransactions()
+2021-04-27 07:47:36 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2021-04-27 07:47:36 MultiChain version build 2.1.2 protocol 20012 (Feb 18 2019, 14:27:04)
+2021-04-27 07:47:36 Using OpenSSL version OpenSSL 1.0.1k 8 Jan 2015
+2021-04-27 07:47:36 Using BerkeleyDB version Berkeley DB 4.8.30: (April  9, 2010)
+2021-04-27 07:47:36 Default data directory C:\demo\demochain
+2021-04-27 07:47:36 Using data directory C:\demo\demochain
+2021-04-27 07:47:36 Using config file C:\demo\demochain\demochain.conf
+2021-04-27 07:47:36 Using at most 125 connections (2048 file descriptors available)
+2021-04-27 07:47:36 Using 8 threads for script verification
+2021-04-27 07:47:36 Using wallet wallet.dat
+2021-04-27 07:47:36 init message: Verifying wallet...
+2021-04-27 07:47:36 Wallet file exists. WalletDBVersion: 3.
+2021-04-27 07:47:36 Binding RPC on address ::1 port 7414 (IPv4+IPv6 bind any: 0)
+2021-04-27 07:47:36 Binding RPC on address 127.0.0.1 port 7414 (IPv4+IPv6 bind any: 0)
+2021-04-27 07:47:36 init message: Initializing multichain...
+2021-04-27 07:47:36 mchn: Seed address resolved: 172.16.26.203:7415
+2021-04-27 07:47:36 mchn: Parameter set is valid - initializing blockchain parameters...
+2021-04-27 07:47:36 Wallet mode: 00000103
+2021-04-27 07:47:36 nFileVersion = 100000
+2021-04-27 07:47:36 Keys: 2 plaintext, 0 encrypted, 2 w/ metadata, 2 total
+2021-04-27 07:47:36 Node paused state is set to 00000000
+2021-04-27 07:47:36 Bound to [::]:7415
+2021-04-27 07:47:36 Bound to 0.0.0.0:7415
+2021-04-27 07:47:37 Filter initialization completed
+2021-04-27 07:47:37 Setting banned transaction list:    0 transactions
+2021-04-27 07:47:37 init message: Loading block index...
+2021-04-27 07:47:37 Opening LevelDB in C:\demo\demochain\blocks\index
+2021-04-27 07:47:37 Opened LevelDB successfully
+2021-04-27 07:47:37 Opening LevelDB in C:\demo\demochain\chainstate
+2021-04-27 07:47:37 Opened LevelDB successfully
+2021-04-27 07:47:37 nFileVersion = 100000
+2021-04-27 07:47:37 Keys: 2 plaintext, 0 encrypted, 2 w/ metadata, 2 total
+2021-04-27 07:47:37 LoadBlockIndexDB: last block file = 0
+2021-04-27 07:47:37 LoadBlockIndexDB: last block file info: CBlockFileInfo(blocks=71, size=26506, heights=0...70, time=2021-04-22...2021-04-22)
+2021-04-27 07:47:37 Checking all blk files are present...
+2021-04-27 07:47:37 LoadBlockIndexDB(): transaction index enabled
+2021-04-27 07:47:37 LoadBlockIndexDB(): hashBestChain=00cdd9c8e07f93db33bf98637ff2e0a4aca472eea5641d0d612954a8203b7f84 height=70 date=2021-04-22 09:22:28 progress=1.000000
+2021-04-27 07:47:37 init message: Verifying blocks...
+2021-04-27 07:47:37 Verifying last 70 blocks at level 3
+2021-04-27 07:47:37 No coin database inconsistencies in last 70 blocks (84 transactions)
+2021-04-27 07:47:37  block index             195ms
+2021-04-27 07:47:37 MultiChain protocol version: 20012
+2021-04-27 07:47:37 init message: Loading wallet...
+2021-04-27 07:47:37 nFileVersion = 100000
+2021-04-27 07:47:37 Keys: 2 plaintext, 0 encrypted, 2 w/ metadata, 2 total
+2021-04-27 07:47:37  wallet                    0ms
+2021-04-27 07:47:37 mapBlockIndex.size() = 71
+2021-04-27 07:47:37 nBestHeight = 70
+2021-04-27 07:47:37 setKeyPool.size() = 1
+2021-04-27 07:47:37 oldWallet.size() = 0
+2021-04-27 07:47:37 mapWallet.size() = 12
+2021-04-27 07:47:37 mapAddressBook.size() = 1
+2021-04-27 07:47:37 init message: Loading addresses...
+2021-04-27 07:47:37 Loaded 2 addresses from peers.dat  3ms
+2021-04-27 07:47:37 AddLocal([fe80::cf1:c730:6e2c:571a]:7415,1)
+2021-04-27 07:47:37 Discover: cplab01 - fe80::cf1:c730:6e2c:571a
+2021-04-27 07:47:37 AddLocal([fe80::9561:46eb:63c6:dd02]:7415,1)
+2021-04-27 07:47:37 Discover: cplab01 - fe80::9561:46eb:63c6:dd02
+2021-04-27 07:47:37 AddLocal([fe80::e:cc85:aae5:576]:7415,1)
+2021-04-27 07:47:37 Discover: cplab01 - fe80::e:cc85:aae5:576
+2021-04-27 07:47:37 AddLocal(192.168.214.1:7415,1)
+2021-04-27 07:47:37 Discover: cplab01 - 192.168.214.1
+2021-04-27 07:47:37 AddLocal(192.168.143.1:7415,1)
+2021-04-27 07:47:37 Discover: cplab01 - 192.168.143.1
+2021-04-27 07:47:37 AddLocal(172.16.25.102:7415,1)
+2021-04-27 07:47:37 Discover: cplab01 - 172.16.25.102
+2021-04-27 07:47:37 dnsseed thread start
+2021-04-27 07:47:37 Node didn't shut down normally, performing recovery
+2021-04-27 07:47:37 net thread start
+2021-04-27 07:47:37 opencon thread start
+2021-04-27 07:47:37 msghand thread start
+2021-04-27 07:47:37 dumpaddr thread start
+2021-04-27 07:47:37 Seed node is set, trying to connect to 172.16.26.203:7415...
+2021-04-27 07:47:37 Recovery completed succesfully
+2021-04-27 07:47:37 MultiChainMiner started
+2021-04-27 07:47:37 addcon thread start
+2021-04-27 07:47:37 init message: Done loading
+2021-04-27 07:47:37 Node started
+2021-04-27 07:47:37 mchn: Sending minimal parameter set to 172.16.26.203:7415
+2021-04-27 07:47:37 receive version message: /MultiChain:0.2.0.12/: version 70002, blocks=70, us=172.16.25.102:50947, peer=1
+2021-04-27 07:47:37 Added time data, samples 2, offset +4 (+0 minutes)
+2021-04-27 07:47:37 mchn: Connection from 19CGMgtsx7o4x4B6ZqYRyxNnJg3ActQhVHLsTH received on peer=1 in verack
+2021-04-27 07:47:37 mchn: Connection from 19CGMgtsx7o4x4B6ZqYRyxNnJg3ActQhVHLsTH received on peer=1 in verackack (172.16.26.203:7415)
+2021-04-27 07:47:37 mchn: Parameter set from peer=1 verified
+2021-04-27 07:47:37 mchn: Synced with node 1 on block 70 - requesting mempool
+2021-04-27 07:47:38 mchn: Sending minimal parameter set to 172.16.26.203:53505
+2021-04-27 07:47:38 receive version message: /MultiChain:0.2.0.12/: version 70002, blocks=70, us=172.16.25.102:7415, peer=2
+2021-04-27 07:47:38 mchn: Connection from 19CGMgtsx7o4x4B6ZqYRyxNnJg3ActQhVHLsTH received on peer=2 in verack
+2021-04-27 07:47:39 mchn: Connection from 19CGMgtsx7o4x4B6ZqYRyxNnJg3ActQhVHLsTH received on peer=2 in verackack (172.16.26.203:53505)
+2021-04-27 07:47:39 mchn: Parameter set from peer=2 verified
+2021-04-27 07:47:42 dnsseed thread interrupt
+2021-04-27 07:47:42 addcon thread interrupt
+2021-04-27 07:47:42 opencon thread interrupt
+2021-04-27 07:47:42 dumpaddr thread stop
+2021-04-27 07:47:42 msghand thread interrupt
+2021-04-27 07:47:42 net thread interrupt
+2021-04-27 07:47:42 Shutdown: In progress...
+2021-04-27 07:47:42 RPCAcceptHandler: Error: The I/O operation has been aborted because of either a thread exit or an application request
+2021-04-27 07:47:42 RPCAcceptHandler: Error: The I/O operation has been aborted because of either a thread exit or an application request
+2021-04-27 07:47:43 MultiChainMiner terminated
+2021-04-27 07:47:43 StopNode()
+2021-04-27 07:47:43 Node stopped
+2021-04-27 07:47:43 Shutdown: done
+2021-04-27 07:48:05 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2021-04-27 07:48:05 MultiChain version build 2.1.2 protocol 20012 (Feb 18 2019, 14:27:04)
+2021-04-27 07:48:05 Using OpenSSL version OpenSSL 1.0.1k 8 Jan 2015
+2021-04-27 07:48:05 Using BerkeleyDB version Berkeley DB 4.8.30: (April  9, 2010)
+2021-04-27 07:48:05 Default data directory C:\demo\demochain
+2021-04-27 07:48:05 Using data directory C:\demo\demochain
+2021-04-27 07:48:05 Using config file C:\demo\demochain\demochain.conf
+2021-04-27 07:48:05 Using at most 125 connections (2048 file descriptors available)
+2021-04-27 07:48:05 Using 8 threads for script verification
+2021-04-27 07:48:05 Using wallet wallet.dat
+2021-04-27 07:48:05 init message: Verifying wallet...
+2021-04-27 07:48:05 Wallet file exists. WalletDBVersion: 3.
+2021-04-27 07:48:05 Binding RPC on address ::1 port 7414 (IPv4+IPv6 bind any: 0)
+2021-04-27 07:48:05 Binding RPC on address 127.0.0.1 port 7414 (IPv4+IPv6 bind any: 0)
+2021-04-27 07:48:05 init message: Initializing multichain...
+2021-04-27 07:48:05 mchn: Seed address resolved: 172.16.26.203:7415
+2021-04-27 07:48:05 mchn: Parameter set is valid - initializing blockchain parameters...
+2021-04-27 07:48:05 Wallet mode: 00000103
+2021-04-27 07:48:05 nFileVersion = 100000
+2021-04-27 07:48:05 Keys: 2 plaintext, 0 encrypted, 2 w/ metadata, 2 total
+2021-04-27 07:48:05 Node paused state is set to 00000000
+2021-04-27 07:48:05 Bound to [::]:7415
+2021-04-27 07:48:05 Bound to 0.0.0.0:7415
+2021-04-27 07:48:05 Filter initialization completed
+2021-04-27 07:48:05 Setting banned transaction list:    0 transactions
+2021-04-27 07:48:05 init message: Loading block index...
+2021-04-27 07:48:05 Opening LevelDB in C:\demo\demochain\blocks\index
+2021-04-27 07:48:05 Opened LevelDB successfully
+2021-04-27 07:48:05 Opening LevelDB in C:\demo\demochain\chainstate
+2021-04-27 07:48:05 Opened LevelDB successfully
+2021-04-27 07:48:05 nFileVersion = 100000
+2021-04-27 07:48:05 Keys: 2 plaintext, 0 encrypted, 2 w/ metadata, 2 total
+2021-04-27 07:48:05 LoadBlockIndexDB: last block file = 0
+2021-04-27 07:48:05 LoadBlockIndexDB: last block file info: CBlockFileInfo(blocks=71, size=26506, heights=0...70, time=2021-04-22...2021-04-22)
+2021-04-27 07:48:05 Checking all blk files are present...
+2021-04-27 07:48:05 LoadBlockIndexDB(): transaction index enabled
+2021-04-27 07:48:05 LoadBlockIndexDB(): hashBestChain=00cdd9c8e07f93db33bf98637ff2e0a4aca472eea5641d0d612954a8203b7f84 height=70 date=2021-04-22 09:22:28 progress=1.000000
+2021-04-27 07:48:05 init message: Verifying blocks...
+2021-04-27 07:48:05 Verifying last 70 blocks at level 3
+2021-04-27 07:48:06 No coin database inconsistencies in last 70 blocks (84 transactions)
+2021-04-27 07:48:06  block index              73ms
+2021-04-27 07:48:06 MultiChain protocol version: 20012
+2021-04-27 07:48:06 init message: Loading wallet...
+2021-04-27 07:48:06 nFileVersion = 100000
+2021-04-27 07:48:06 Keys: 2 plaintext, 0 encrypted, 2 w/ metadata, 2 total
+2021-04-27 07:48:06  wallet                    1ms
+2021-04-27 07:48:06 mapBlockIndex.size() = 71
+2021-04-27 07:48:06 nBestHeight = 70
+2021-04-27 07:48:06 setKeyPool.size() = 1
+2021-04-27 07:48:06 oldWallet.size() = 0
+2021-04-27 07:48:06 mapWallet.size() = 12
+2021-04-27 07:48:06 mapAddressBook.size() = 1
+2021-04-27 07:48:06 init message: Loading addresses...
+2021-04-27 07:48:06 Loaded 2 addresses from peers.dat  0ms
+2021-04-27 07:48:06 AddLocal([fe80::cf1:c730:6e2c:571a]:7415,1)
+2021-04-27 07:48:06 Discover: cplab01 - fe80::cf1:c730:6e2c:571a
+2021-04-27 07:48:06 AddLocal([fe80::9561:46eb:63c6:dd02]:7415,1)
+2021-04-27 07:48:06 Discover: cplab01 - fe80::9561:46eb:63c6:dd02
+2021-04-27 07:48:06 AddLocal([fe80::e:cc85:aae5:576]:7415,1)
+2021-04-27 07:48:06 Discover: cplab01 - fe80::e:cc85:aae5:576
+2021-04-27 07:48:06 AddLocal(192.168.214.1:7415,1)
+2021-04-27 07:48:06 Discover: cplab01 - 192.168.214.1
+2021-04-27 07:48:06 AddLocal(192.168.143.1:7415,1)
+2021-04-27 07:48:06 Discover: cplab01 - 192.168.143.1
+2021-04-27 07:48:06 AddLocal(172.16.25.102:7415,1)
+2021-04-27 07:48:06 Discover: cplab01 - 172.16.25.102
+2021-04-27 07:48:06 dnsseed thread start
+2021-04-27 07:48:06 net thread start
+2021-04-27 07:48:06 init message: Done loading
+2021-04-27 07:48:06 addcon thread start
+2021-04-27 07:48:06 opencon thread start
+2021-04-27 07:48:06 msghand thread start
+2021-04-27 07:48:06 dumpaddr thread start
+2021-04-27 07:48:06 MultiChainMiner started
+2021-04-27 07:48:06 Seed node is set, trying to connect to 172.16.26.203:7415...
+2021-04-27 07:48:06 Node started
+2021-04-27 07:48:06 mchn: Sending minimal parameter set to 172.16.26.203:7415
+2021-04-27 07:48:06 receive version message: /MultiChain:0.2.0.12/: version 70002, blocks=70, us=172.16.25.102:50959, peer=1
+2021-04-27 07:48:06 Added time data, samples 2, offset +3 (+0 minutes)
+2021-04-27 07:48:06 mchn: Connection from 19CGMgtsx7o4x4B6ZqYRyxNnJg3ActQhVHLsTH received on peer=1 in verack
+2021-04-27 07:48:06 mchn: Connection from 19CGMgtsx7o4x4B6ZqYRyxNnJg3ActQhVHLsTH received on peer=1 in verackack (172.16.26.203:7415)
+2021-04-27 07:48:06 mchn: Parameter set from peer=1 verified
+2021-04-27 07:48:06 mchn: Synced with node 1 on block 70 - requesting mempool
+2021-04-27 07:48:08 mchn: Sending minimal parameter set to 172.16.26.203:53511
+2021-04-27 07:48:08 receive version message: /MultiChain:0.2.0.12/: version 70002, blocks=70, us=172.16.25.102:7415, peer=2
+2021-04-27 07:48:08 mchn: Connection from 19CGMgtsx7o4x4B6ZqYRyxNnJg3ActQhVHLsTH received on peer=2 in verack
+2021-04-27 07:48:08 mchn: Connection from 19CGMgtsx7o4x4B6ZqYRyxNnJg3ActQhVHLsTH received on peer=2 in verackack (172.16.26.203:53511)
+2021-04-27 07:48:08 mchn: Parameter set from peer=2 verified
+2021-04-27 07:48:17 P2P peers available. Skipped DNS seeding.
+2021-04-27 07:48:17 dnsseed thread exit
+2021-04-27 07:48:31 ResendWalletTransactions()
+2021-04-27 08:26:29 mchn: Sending minimal parameter set to 172.16.26.190:58116
+2021-04-27 08:26:29 receive version message: /MultiChain:0.2.0.12/: version 70002, blocks=-1, us=172.16.25.102:7415, peer=3
+2021-04-27 08:26:29 Added time data, samples 3, offset +1 (+0 minutes)
+2021-04-27 08:31:12 mchn: Granting connect,send,receive permission(s) to address 1GAEqZb4cm4upg1ubVa5qWr4ewi9BXSEPe2RK2 (0-4294967295)
+2021-04-27 08:36:30 UpdateTip:            new best=00a1be868801c37feaa7c4856ab91d1984edbf5345e58d6b6097dad0794d913b  height=71  log2_work=14.169925  tx=87  date=2021-04-27 08:36:32 progress=1.000000  cache=0
+2021-04-27 08:36:30 mchn: Synced with node 2 on block 71 - requesting mempool
+2021-04-27 08:36:40 ResendWalletTransactions()
+2021-04-27 08:37:05 UpdateTip:            new best=0089c5d14d9d5fff43ed31d0f70fcdf3c3348d903524d59c9ee5dc8dff3f0605  height=72  log2_work=14.189825  tx=89  date=2021-04-27 08:37:08 progress=1.000000  cache=0
+2021-04-27 08:37:14 mchn: Sending minimal parameter set to 172.16.26.190:58192
+2021-04-27 08:37:14 receive version message: /MultiChain:0.2.0.12/: version 70002, blocks=-1, us=172.16.25.102:7415, peer=4
+2021-04-27 08:37:14 mchn: Connection from 1GAEqZb4cm4upg1ubVa5qWr4ewi9BXSEPe2RK2 received on peer=4 in verackack (172.16.26.190:58192)
+2021-04-27 08:37:14 mchn: Sending full parameter set to 172.16.26.190:58192
+2021-04-27 08:37:16 mchn: Sending minimal parameter set to 172.16.26.190:58193
+2021-04-27 08:37:16 receive version message: /MultiChain:0.2.0.12/: version 70002, blocks=0, us=172.16.25.102:7415, peer=5
+2021-04-27 08:37:16 mchn: Connection from 1GAEqZb4cm4upg1ubVa5qWr4ewi9BXSEPe2RK2 received on peer=5 in verack
+2021-04-27 08:37:16 mchn: Connection from 1GAEqZb4cm4upg1ubVa5qWr4ewi9BXSEPe2RK2 received on peer=5 in verackack (172.16.26.190:58193)
+2021-04-27 08:37:16 mchn: Parameter set from peer=5 verified
+2021-04-27 08:37:18 ResendWalletTransactions()
+2021-04-27 08:37:45 mchn: Synced with node 5 on block 72 - requesting mempool
+2021-04-27 08:54:51 UpdateTip:            new best=0014767c26fa2a32c39adf1cb4113fea56a5ea8b169a58f8ea20b840a0f3b3db  height=73  log2_work=14.209453  tx=91  date=2021-04-27 08:54:54 progress=1.000000  cache=0
+2021-04-27 08:54:56 ResendWalletTransactions()
+2021-04-27 08:56:07 socket recv error An existing connection was forcibly closed by the remote host.  (10054)
+2021-04-27 08:56:12 mchn: Sending minimal parameter set to 172.16.26.190:58424
+2021-04-27 08:56:12 receive version message: /MultiChain:0.2.0.12/: version 70002, blocks=73, us=172.16.25.102:7415, peer=6
+2021-04-27 08:56:12 mchn: Connection from 1GAEqZb4cm4upg1ubVa5qWr4ewi9BXSEPe2RK2 received on peer=6 in verack
+2021-04-27 08:56:12 mchn: Connection from 1GAEqZb4cm4upg1ubVa5qWr4ewi9BXSEPe2RK2 received on peer=6 in verackack (172.16.26.190:58424)
+2021-04-27 08:56:12 mchn: Parameter set from peer=6 verified
+2021-04-27 08:56:12 mchn: Synced with node 6 on block 73 - requesting mempool
+2021-04-27 08:56:16 UpdateTip:            new best=0038a45bbe396e06207e1d583cf96c65dd4250daa3707c528bd9cc3dd4c71344  height=74  log2_work=14.228819  tx=93  date=2021-04-27 08:56:19 progress=1.000000  cache=0
+2021-04-27 08:56:23 ResendWalletTransactions()
+2021-04-27 08:57:04 UpdateTip:            new best=0068833653dba93a708ab18464571fafaea5480f882f3dd7677951a047ddaf63  height=75  log2_work=14.247928  tx=95  date=2021-04-27 08:57:07 progress=1.000000  cache=0
+2021-04-27 08:57:06 ResendWalletTransactions()
+2021-04-27 09:00:51 socket recv error An existing connection was forcibly closed by the remote host.  (10054)
+2021-04-27 09:07:04 addcon thread interrupt
+2021-04-27 09:07:04 opencon thread interrupt
+2021-04-27 09:07:04 dumpaddr thread stop
+2021-04-27 09:07:04 msghand thread interrupt
+2021-04-27 09:07:04 net thread interrupt
+2021-04-27 09:07:04 Shutdown: In progress...
+2021-04-27 09:07:04 RPCAcceptHandler: Error: The I/O operation has been aborted because of either a thread exit or an application request
+2021-04-27 09:07:04 RPCAcceptHandler: Error: The I/O operation has been aborted because of either a thread exit or an application request
+2021-04-27 09:07:05 MultiChainMiner terminated
+2021-04-27 09:07:05 StopNode()
+2021-04-27 09:07:05 Node stopped
+2021-04-27 09:07:05 Shutdown: done
+2021-04-28 06:04:18 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2021-04-28 06:04:18 MultiChain version build 2.1.2 protocol 20012 (Feb 18 2019, 14:27:04)
+2021-04-28 06:04:18 Using OpenSSL version OpenSSL 1.0.1k 8 Jan 2015
+2021-04-28 06:04:18 Using BerkeleyDB version Berkeley DB 4.8.30: (April  9, 2010)
+2021-04-28 06:04:18 Default data directory C:\demo\demochain
+2021-04-28 06:04:18 Using data directory C:\demo\demochain
+2021-04-28 06:04:18 Using config file C:\demo\demochain\demochain.conf
+2021-04-28 06:04:18 Using at most 125 connections (2048 file descriptors available)
+2021-04-28 06:04:18 Using 8 threads for script verification
+2021-04-28 06:04:18 Using wallet wallet.dat
+2021-04-28 06:04:18 init message: Verifying wallet...
+2021-04-28 06:04:18 Wallet file exists. WalletDBVersion: 3.
+2021-04-28 06:04:18 Binding RPC on address ::1 port 7414 (IPv4+IPv6 bind any: 0)
+2021-04-28 06:04:18 Binding RPC on address 127.0.0.1 port 7414 (IPv4+IPv6 bind any: 0)
+2021-04-28 06:04:18 init message: Initializing multichain...
+2021-04-28 06:04:18 mchn: Seed address resolved: 172.16.26.203:7415
+2021-04-28 06:04:18 mchn: Parameter set is valid - initializing blockchain parameters...
+2021-04-28 06:04:18 Wallet mode: 00000103
+2021-04-28 06:04:18 nFileVersion = 100000
+2021-04-28 06:04:18 Keys: 2 plaintext, 0 encrypted, 2 w/ metadata, 2 total
+2021-04-28 06:04:18 Node paused state is set to 00000000
+2021-04-28 06:04:18 Bound to [::]:7415
+2021-04-28 06:04:18 Bound to 0.0.0.0:7415
+2021-04-28 06:04:18 Filter initialization completed
+2021-04-28 06:04:18 Setting banned transaction list:    0 transactions
+2021-04-28 06:04:18 init message: Loading block index...
+2021-04-28 06:04:18 Opening LevelDB in C:\demo\demochain\blocks\index
+2021-04-28 06:04:18 Opened LevelDB successfully
+2021-04-28 06:04:18 Opening LevelDB in C:\demo\demochain\chainstate
+2021-04-28 06:04:18 Opened LevelDB successfully
+2021-04-28 06:04:18 nFileVersion = 100000
+2021-04-28 06:04:18 Keys: 2 plaintext, 0 encrypted, 2 w/ metadata, 2 total
+2021-04-28 06:04:18 LoadBlockIndexDB: last block file = 0
+2021-04-28 06:04:18 LoadBlockIndexDB: last block file info: CBlockFileInfo(blocks=76, size=30690, heights=0...75, time=2021-04-22...2021-04-27)
+2021-04-28 06:04:18 Checking all blk files are present...
+2021-04-28 06:04:18 LoadBlockIndexDB(): transaction index enabled
+2021-04-28 06:04:18 LoadBlockIndexDB(): hashBestChain=0068833653dba93a708ab18464571fafaea5480f882f3dd7677951a047ddaf63 height=75 date=2021-04-27 08:57:07 progress=1.000000
+2021-04-28 06:04:18 init message: Verifying blocks...
+2021-04-28 06:04:18 Verifying last 75 blocks at level 3
+2021-04-28 06:04:19 No coin database inconsistencies in last 75 blocks (94 transactions)
+2021-04-28 06:04:19  block index             123ms
+2021-04-28 06:04:19 MultiChain protocol version: 20012
+2021-04-28 06:04:19 init message: Loading wallet...
+2021-04-28 06:04:19 nFileVersion = 100000
+2021-04-28 06:04:19 Keys: 2 plaintext, 0 encrypted, 2 w/ metadata, 2 total
+2021-04-28 06:04:19  wallet                    1ms
+2021-04-28 06:04:19 mapBlockIndex.size() = 76
+2021-04-28 06:04:19 nBestHeight = 75
+2021-04-28 06:04:19 setKeyPool.size() = 1
+2021-04-28 06:04:19 oldWallet.size() = 0
+2021-04-28 06:04:19 mapWallet.size() = 15
+2021-04-28 06:04:19 mapAddressBook.size() = 1
+2021-04-28 06:04:19 init message: Loading addresses...
+2021-04-28 06:04:19 Loaded 3 addresses from peers.dat  0ms
+2021-04-28 06:04:19 AddLocal([fe80::cf1:c730:6e2c:571a]:7415,1)
+2021-04-28 06:04:19 Discover: cplab01 - fe80::cf1:c730:6e2c:571a
+2021-04-28 06:04:19 AddLocal([fe80::9561:46eb:63c6:dd02]:7415,1)
+2021-04-28 06:04:19 Discover: cplab01 - fe80::9561:46eb:63c6:dd02
+2021-04-28 06:04:19 AddLocal([fe80::e:cc85:aae5:576]:7415,1)
+2021-04-28 06:04:19 Discover: cplab01 - fe80::e:cc85:aae5:576
+2021-04-28 06:04:19 AddLocal(192.168.214.1:7415,1)
+2021-04-28 06:04:19 Discover: cplab01 - 192.168.214.1
+2021-04-28 06:04:19 AddLocal(192.168.143.1:7415,1)
+2021-04-28 06:04:19 Discover: cplab01 - 192.168.143.1
+2021-04-28 06:04:19 AddLocal(172.16.25.102:7415,1)
+2021-04-28 06:04:19 Discover: cplab01 - 172.16.25.102
+2021-04-28 06:04:19 dnsseed thread start
+2021-04-28 06:04:19 opencon thread start
+2021-04-28 06:04:19 Seed node is set, trying to connect to 172.16.26.203:7415...
+2021-04-28 06:04:19 dumpaddr thread start
+2021-04-28 06:04:19 net thread start
+2021-04-28 06:04:19 msghand thread start
+2021-04-28 06:04:19 init message: Done loading
+2021-04-28 06:04:19 addcon thread start
+2021-04-28 06:04:19 MultiChainMiner started
+2021-04-28 06:04:19 Node started
+2021-04-28 06:04:19 mchn: Sending minimal parameter set to 172.16.26.203:7415
+2021-04-28 06:04:19 receive version message: /MultiChain:0.2.0.12/: version 70002, blocks=75, us=172.16.25.102:52831, peer=1
+2021-04-28 06:04:19 Added time data, samples 2, offset +1 (+0 minutes)
+2021-04-28 06:04:19 mchn: Connection from 19CGMgtsx7o4x4B6ZqYRyxNnJg3ActQhVHLsTH received on peer=1 in verack
+2021-04-28 06:04:19 mchn: Connection from 19CGMgtsx7o4x4B6ZqYRyxNnJg3ActQhVHLsTH received on peer=1 in verackack (172.16.26.203:7415)
+2021-04-28 06:04:19 mchn: Parameter set from peer=1 verified
+2021-04-28 06:04:19 mchn: Synced with node 1 on block 75 - requesting mempool
+2021-04-28 06:04:30 Loading addresses from DNS seeds (could take a while)
+2021-04-28 06:04:30 0 addresses found from DNS seeds
+2021-04-28 06:04:30 dnsseed thread exit
+2021-04-28 06:04:48 ResendWalletTransactions()
+2021-04-28 06:07:27 mchn: Sending minimal parameter set to 172.16.26.190:58659
+2021-04-28 06:07:27 receive version message: /MultiChain:0.2.0.12/: version 70002, blocks=75, us=172.16.25.102:7415, peer=2
+2021-04-28 06:07:27 Added time data, samples 3, offset -2 (+0 minutes)
+2021-04-28 06:07:27 mchn: Connection from 1GAEqZb4cm4upg1ubVa5qWr4ewi9BXSEPe2RK2 received on peer=2 in verack
+2021-04-28 06:07:27 mchn: Connection from 1GAEqZb4cm4upg1ubVa5qWr4ewi9BXSEPe2RK2 received on peer=2 in verackack (172.16.26.190:58659)
+2021-04-28 06:07:27 mchn: Parameter set from peer=2 verified
+2021-04-28 06:07:27 mchn: Synced with node 2 on block 75 - requesting mempool
+2021-04-28 06:07:28 mchn: Sending minimal parameter set to 172.16.26.190:7415
+2021-04-28 06:07:28 receive version message: /MultiChain:0.2.0.12/: version 70002, blocks=75, us=172.16.25.102:52908, peer=3
+2021-04-28 06:07:28 mchn: Connection from 1GAEqZb4cm4upg1ubVa5qWr4ewi9BXSEPe2RK2 received on peer=3 in verack
+2021-04-28 06:07:28 mchn: Connection from 1GAEqZb4cm4upg1ubVa5qWr4ewi9BXSEPe2RK2 received on peer=3 in verackack (172.16.26.190:7415)
+2021-04-28 06:07:28 mchn: Parameter set from peer=3 verified
+2021-04-28 06:07:28 mchn: Synced with node 3 on block 75 - requesting mempool
+2021-04-28 06:08:27 CommitTransaction: f4fa82d635821fa77e5e1704c3245f2e5a7f5ac41c8fd103ef77819cdc9b7652, vin: 1, vout: 2
+2021-04-28 06:08:40 UpdateTip:            new best=0054b78707625ffa1033e214881c6dee79de8119707c94879c6704752d5221b8  height=76  log2_work=14.266787  tx=97  date=2021-04-28 06:08:41 progress=1.000000  cache=0
+2021-04-28 06:08:43 ResendWalletTransactions()
+2021-04-28 06:10:32 UpdateTip:            new best=001b745bba5d659d02323ee645724eb147817830f5eb861a5800f5a6d388603c  height=77  log2_work=14.285402  tx=99  date=2021-04-28 06:10:34 progress=1.000000  cache=0
+2021-04-28 06:10:36 ResendWalletTransactions()
+2021-04-28 06:15:24 UpdateTip:            new best=00f5358085be6fee1468f08c5304518b64bf05f142d6e927dafcf8ad83e688b4  height=78  log2_work=14.303781  tx=101  date=2021-04-28 06:15:25 progress=1.000000  cache=0
+2021-04-28 06:15:41 ResendWalletTransactions()
+2021-04-28 06:16:39 UpdateTip:            new best=0077e3cb733d9d76c6a6bac619e350a87346ef759f51180c43bf1b0f371ea8ee  height=79  log2_work=14.321928  tx=103  date=2021-04-28 06:16:40 progress=1.000000  cache=0
+2021-04-28 06:16:39 ResendWalletTransactions()
+2021-04-28 06:16:45 ResendWalletTransactions()
+2021-04-28 06:17:31 CommitTransaction: baa8ace39b3195ad1d63be502f754e1d8880a5206a20488b92aa1f9e82e50eca, vin: 1, vout: 2
+2021-04-28 06:17:45 UpdateTip:            new best=00ef59c8d5cc48ad1d7300b0da9bbf1f7bc563014b43b69c3a737bf6b5bab0da  height=80  log2_work=14.33985  tx=105  date=2021-04-28 06:17:46 progress=1.000000  cache=0
+2021-04-28 06:17:57 ResendWalletTransactions()
+2021-04-28 06:22:57 UpdateTip:            new best=0023720371f2da5a07edf47653de417ebb4961e3455184b63a2d53326effbc2e  height=81  log2_work=14.357552  tx=108  date=2021-04-28 06:22:58 progress=1.000000  cache=0
+2021-04-28 06:22:57 ResendWalletTransactions()
+2021-04-28 06:22:59 ResendWalletTransactions()
+2021-04-28 06:23:10 mchn: Sending minimal parameter set to 172.16.25.1:52880
+2021-04-28 06:23:10 receive version message: /MultiChain:0.2.0.12/: version 70002, blocks=2, us=172.16.25.102:7415, peer=4
+2021-04-28 06:23:10 Added time data, samples 4, offset +7 (+0 minutes)
+2021-04-28 06:23:10 mchn: Connection from 1U3Djp2m8teWQyK6NzDfGBjFgRkJ9EyQVh1dVG received on peer=4 in verack
+2021-04-28 06:23:11 mchn: Connection from 1U3Djp2m8teWQyK6NzDfGBjFgRkJ9EyQVh1dVG received on peer=4 in verackack (172.16.25.1:52880)
+2021-04-28 06:23:11 mchn: Parameter set from peer=4 verified
+2021-04-28 06:23:12 mchn: Sending minimal parameter set to 172.16.25.1:52882
+2021-04-28 06:23:12 receive version message: /MultiChain:0.2.0.12/: version 70002, blocks=7, us=172.16.25.102:7415, peer=5
+2021-04-28 06:23:12 mchn: Connection from 1U3Djp2m8teWQyK6NzDfGBjFgRkJ9EyQVh1dVG received on peer=5 in verack
+2021-04-28 06:23:12 mchn: Connection from 1U3Djp2m8teWQyK6NzDfGBjFgRkJ9EyQVh1dVG received on peer=5 in verackack (172.16.25.1:52882)
+2021-04-28 06:23:12 mchn: Parameter set from peer=5 verified
+2021-04-28 06:23:14 mchn: Sending minimal parameter set to 172.16.25.1:52883
+2021-04-28 06:23:14 receive version message: /MultiChain:0.2.0.12/: version 70002, blocks=13, us=172.16.25.102:7415, peer=6
+2021-04-28 06:23:14 mchn: Connection from 1U3Djp2m8teWQyK6NzDfGBjFgRkJ9EyQVh1dVG received on peer=6 in verack
+2021-04-28 06:23:14 mchn: Connection from 1U3Djp2m8teWQyK6NzDfGBjFgRkJ9EyQVh1dVG received on peer=6 in verackack (172.16.25.1:52883)
+2021-04-28 06:23:14 mchn: Parameter set from peer=6 verified
+2021-04-28 06:23:15 mchn: Sending minimal parameter set to 172.16.25.1:52884
+2021-04-28 06:23:15 receive version message: /MultiChain:0.2.0.12/: version 70002, blocks=17, us=172.16.25.102:7415, peer=7
+2021-04-28 06:23:15 mchn: Connection from 1U3Djp2m8teWQyK6NzDfGBjFgRkJ9EyQVh1dVG received on peer=7 in verack
+2021-04-28 06:23:15 mchn: Connection from 1U3Djp2m8teWQyK6NzDfGBjFgRkJ9EyQVh1dVG received on peer=7 in verackack (172.16.25.1:52884)
+2021-04-28 06:23:15 mchn: Parameter set from peer=7 verified
+2021-04-28 06:23:16 mchn: Sending minimal parameter set to 172.16.25.1:52885
+2021-04-28 06:23:16 receive version message: /MultiChain:0.2.0.12/: version 70002, blocks=21, us=172.16.25.102:7415, peer=8
+2021-04-28 06:23:16 mchn: Connection from 1U3Djp2m8teWQyK6NzDfGBjFgRkJ9EyQVh1dVG received on peer=8 in verack
+2021-04-28 06:23:17 mchn: Connection from 1U3Djp2m8teWQyK6NzDfGBjFgRkJ9EyQVh1dVG received on peer=8 in verackack (172.16.25.1:52885)
+2021-04-28 06:23:17 mchn: Parameter set from peer=8 verified
+2021-04-28 06:23:18 mchn: Sending minimal parameter set to 172.16.25.1:52886
+2021-04-28 06:23:18 receive version message: /MultiChain:0.2.0.12/: version 70002, blocks=28, us=172.16.25.102:7415, peer=9
+2021-04-28 06:23:18 mchn: Connection from 1U3Djp2m8teWQyK6NzDfGBjFgRkJ9EyQVh1dVG received on peer=9 in verack
+2021-04-28 06:23:23 mchn: Connection from 1U3Djp2m8teWQyK6NzDfGBjFgRkJ9EyQVh1dVG received on peer=9 in verackack (172.16.25.1:52886)
+2021-04-28 06:23:23 mchn: Parameter set from peer=9 verified
+2021-04-28 06:23:24 mchn: Sending minimal parameter set to 172.16.25.1:52887
+2021-04-28 06:23:24 receive version message: /MultiChain:0.2.0.12/: version 70002, blocks=50, us=172.16.25.102:7415, peer=10
+2021-04-28 06:23:24 mchn: Connection from 1U3Djp2m8teWQyK6NzDfGBjFgRkJ9EyQVh1dVG received on peer=10 in verack
+2021-04-28 06:23:25 mchn: Connection from 1U3Djp2m8teWQyK6NzDfGBjFgRkJ9EyQVh1dVG received on peer=10 in verackack (172.16.25.1:52887)
+2021-04-28 06:23:25 mchn: Parameter set from peer=10 verified
+2021-04-28 06:23:27 mchn: Sending minimal parameter set to 172.16.25.1:52888
+2021-04-28 06:23:27 receive version message: /MultiChain:0.2.0.12/: version 70002, blocks=60, us=172.16.25.102:7415, peer=11
+2021-04-28 06:23:27 mchn: Connection from 1U3Djp2m8teWQyK6NzDfGBjFgRkJ9EyQVh1dVG received on peer=11 in verack
+2021-04-28 06:23:28 mchn: Connection from 1U3Djp2m8teWQyK6NzDfGBjFgRkJ9EyQVh1dVG received on peer=11 in verackack (172.16.25.1:52888)
+2021-04-28 06:23:28 mchn: Parameter set from peer=11 verified
+2021-04-28 06:23:33 mchn: Synced with node 11 on block 81 - requesting mempool
+2021-04-28 06:25:32 mchn: Sending minimal parameter set to 172.16.25.1:52902
+2021-04-28 06:25:32 receive version message: /MultiChain:0.2.0.12/: version 70002, blocks=81, us=172.16.25.102:7415, peer=12
+2021-04-28 06:25:32 mchn: Connection from 1U3Djp2m8teWQyK6NzDfGBjFgRkJ9EyQVh1dVG received on peer=12 in verack
+2021-04-28 06:25:32 mchn: Connection from 1U3Djp2m8teWQyK6NzDfGBjFgRkJ9EyQVh1dVG received on peer=12 in verackack (172.16.25.1:52902)
+2021-04-28 06:25:32 mchn: Parameter set from peer=12 verified
+2021-04-28 06:25:32 mchn: Synced with node 12 on block 81 - requesting mempool
+2021-04-28 06:29:11 UpdateTip:            new best=00af90fb1c31e66b6d0f0418d01f037677a4e2f4037ba8d471c1430c9bfc6a74  height=82  log2_work=14.375039  tx=110  date=2021-04-28 06:29:12 progress=1.000000  cache=0
+2021-04-28 06:29:12 ResendWalletTransactions()
+2021-04-28 06:30:34 UpdateTip:            new best=0063596e7d4ff1c0ece077dedd8df220a5454d8884df1020a5a38c8b1e84f161  height=83  log2_work=14.392317  tx=112  date=2021-04-28 06:30:35 progress=1.000000  cache=0
+2021-04-28 06:30:49 ResendWalletTransactions()
+2021-04-28 06:31:07 mchn: Sending minimal parameter set to 172.16.25.1:52974
+2021-04-28 06:31:07 receive version message: /MultiChain:0.2.0.12/: version 70002, blocks=83, us=172.16.25.102:7415, peer=13
+2021-04-28 06:31:07 mchn: Connection from 1U3Djp2m8teWQyK6NzDfGBjFgRkJ9EyQVh1dVG received on peer=13 in verack
+2021-04-28 06:31:08 mchn: Connection from 1U3Djp2m8teWQyK6NzDfGBjFgRkJ9EyQVh1dVG received on peer=13 in verackack (172.16.25.1:52974)
+2021-04-28 06:31:08 mchn: Parameter set from peer=13 verified
+2021-04-28 06:31:08 mchn: Synced with node 13 on block 83 - requesting mempool
+2021-04-28 06:31:35 UpdateTip:            new best=0088a964ee94392f357fd0a5f36577a6519b572253d61dd7995e006c6c60eb10  height=84  log2_work=14.409391  tx=114  date=2021-04-28 06:31:36 progress=1.000000  cache=0
+2021-04-28 06:31:42 ResendWalletTransactions()
+2021-04-28 06:32:49 socket recv error An existing connection was forcibly closed by the remote host.  (10054)
+2021-04-28 06:32:54 mchn: Sending minimal parameter set to 172.16.25.1:52986
+2021-04-28 06:32:54 receive version message: /MultiChain:0.2.0.12/: version 70002, blocks=84, us=172.16.25.102:7415, peer=14
+2021-04-28 06:32:54 mchn: Connection from 1U3Djp2m8teWQyK6NzDfGBjFgRkJ9EyQVh1dVG received on peer=14 in verack
+2021-04-28 06:32:54 mchn: Connection from 1U3Djp2m8teWQyK6NzDfGBjFgRkJ9EyQVh1dVG received on peer=14 in verackack (172.16.25.1:52986)
+2021-04-28 06:32:54 mchn: Parameter set from peer=14 verified
+2021-04-28 06:32:54 mchn: Synced with node 14 on block 84 - requesting mempool
+2021-04-28 06:33:19 UpdateTip:            new best=000cb950785537b51597a48c50e705911d9b88d1f51228b96d28dc28b8a53f60  height=85  log2_work=14.426265  tx=116  date=2021-04-28 06:33:21 progress=1.000000  cache=0
+2021-04-28 06:33:38 ResendWalletTransactions()
+2021-04-28 06:35:03 mchn: Sending minimal parameter set to 172.16.25.1:52994
+2021-04-28 06:35:03 receive version message: /MultiChain:0.2.0.12/: version 70002, blocks=85, us=172.16.25.102:7415, peer=15
+2021-04-28 06:35:03 mchn: Connection from 1U3Djp2m8teWQyK6NzDfGBjFgRkJ9EyQVh1dVG received on peer=15 in verack
+2021-04-28 06:35:03 mchn: Connection from 1U3Djp2m8teWQyK6NzDfGBjFgRkJ9EyQVh1dVG received on peer=15 in verackack (172.16.25.1:52994)
+2021-04-28 06:35:03 mchn: Parameter set from peer=15 verified
+2021-04-28 06:35:04 mchn: Synced with node 15 on block 85 - requesting mempool
+2021-04-28 06:36:30 mchn: Sending minimal parameter set to 172.16.25.1:53000
+2021-04-28 06:36:30 receive version message: /MultiChain:0.2.0.12/: version 70002, blocks=85, us=172.16.25.102:7415, peer=16
+2021-04-28 06:36:30 mchn: Connection from 1U3Djp2m8teWQyK6NzDfGBjFgRkJ9EyQVh1dVG received on peer=16 in verack
+2021-04-28 06:36:30 mchn: Connection from 1U3Djp2m8teWQyK6NzDfGBjFgRkJ9EyQVh1dVG received on peer=16 in verackack (172.16.25.1:53000)
+2021-04-28 06:36:30 mchn: Parameter set from peer=16 verified
+2021-04-28 06:36:30 mchn: Synced with node 16 on block 85 - requesting mempool
+2021-04-28 06:36:59 UpdateTip:            new best=00fb9afc96301149d54ee9aa1b6d056592e9bcb43490113d4db1bb2c3a2cbb36  height=86  log2_work=14.442943  tx=118  date=2021-04-28 06:37:00 progress=1.000000  cache=0
+2021-04-28 06:37:01 ResendWalletTransactions()
+2021-04-28 06:37:39 UpdateTip:            new best=00431207578a50a1e77d64711742194c380e869bb1d1c7280b6af676de8ec2a7  height=87  log2_work=14.459432  tx=120  date=2021-04-28 06:37:40 progress=1.000000  cache=0
+2021-04-28 06:37:53 ResendWalletTransactions()
+2021-04-28 07:04:53 UpdateTip:            new best=00c7004d6d4f7bbe9497cbfd30c70f87f244e62c535024031025457f75dd2fc4  height=88  log2_work=14.475733  tx=122  date=2021-04-28 07:04:54 progress=1.000000  cache=0
+2021-04-28 07:04:56 ResendWalletTransactions()
+2021-04-28 07:05:03 UpdateTip:            new best=00901fb52770d484f2b9862f41953cff2587e2ab396c06924b6bfc662bc7d52e  height=89  log2_work=14.491853  tx=124  date=2021-04-28 07:05:04 progress=1.000000  cache=0
+2021-04-28 07:05:13 ResendWalletTransactions()
+2021-04-28 07:05:57 mchn: Sending minimal parameter set to 172.16.25.108:51714
+2021-04-28 07:05:57 receive version message: /MultiChain:0.2.0.12/: version 70002, blocks=1, us=172.16.25.102:7415, peer=17
+2021-04-28 07:05:57 Added time data, samples 5, offset +0 (+0 minutes)
+2021-04-28 07:05:57 nTimeOffset = +0  (+0 minutes)
+2021-04-28 07:05:57 mchn: Connection from 1UxTRJ4eNTBVP13YBSNPB2LB3iy9b1djJ8RuoS received on peer=17 in verack
+2021-04-28 07:05:57 mchn: Connection from 1UxTRJ4eNTBVP13YBSNPB2LB3iy9b1djJ8RuoS received on peer=17 in verackack (172.16.25.108:51714)
+2021-04-28 07:05:57 mchn: Parameter set from peer=17 verified
+2021-04-28 07:06:00 mchn: Sending minimal parameter set to 172.16.25.108:51718
+2021-04-28 07:06:00 receive version message: /MultiChain:0.2.0.12/: version 70002, blocks=12, us=172.16.25.102:7415, peer=18
+2021-04-28 07:06:00 mchn: Connection from 1UxTRJ4eNTBVP13YBSNPB2LB3iy9b1djJ8RuoS received on peer=18 in verack
+2021-04-28 07:06:00 mchn: Connection from 1UxTRJ4eNTBVP13YBSNPB2LB3iy9b1djJ8RuoS received on peer=18 in verackack (172.16.25.108:51718)
+2021-04-28 07:06:00 mchn: Parameter set from peer=18 verified
+2021-04-28 07:06:01 mchn: Sending minimal parameter set to 172.16.25.108:51720
+2021-04-28 07:06:01 receive version message: /MultiChain:0.2.0.12/: version 70002, blocks=18, us=172.16.25.102:7415, peer=19
+2021-04-28 07:06:02 mchn: Connection from 1UxTRJ4eNTBVP13YBSNPB2LB3iy9b1djJ8RuoS received on peer=19 in verack
+2021-04-28 07:06:02 mchn: Connection from 1UxTRJ4eNTBVP13YBSNPB2LB3iy9b1djJ8RuoS received on peer=19 in verackack (172.16.25.108:51720)
+2021-04-28 07:06:02 mchn: Parameter set from peer=19 verified
+2021-04-28 07:06:04 mchn: Sending minimal parameter set to 172.16.25.108:51722
+2021-04-28 07:06:04 receive version message: /MultiChain:0.2.0.12/: version 70002, blocks=26, us=172.16.25.102:7415, peer=20
+2021-04-28 07:06:04 mchn: Connection from 1UxTRJ4eNTBVP13YBSNPB2LB3iy9b1djJ8RuoS received on peer=20 in verack
+2021-04-28 07:06:04 mchn: Connection from 1UxTRJ4eNTBVP13YBSNPB2LB3iy9b1djJ8RuoS received on peer=20 in verackack (172.16.25.108:51722)
+2021-04-28 07:06:04 mchn: Parameter set from peer=20 verified
+2021-04-28 07:06:08 mchn: Sending minimal parameter set to 172.16.25.108:51724
+2021-04-28 07:06:08 receive version message: /MultiChain:0.2.0.12/: version 70002, blocks=43, us=172.16.25.102:7415, peer=21
+2021-04-28 07:06:09 mchn: Connection from 1UxTRJ4eNTBVP13YBSNPB2LB3iy9b1djJ8RuoS received on peer=21 in verack
+2021-04-28 07:06:10 mchn: Connection from 1UxTRJ4eNTBVP13YBSNPB2LB3iy9b1djJ8RuoS received on peer=21 in verackack (172.16.25.108:51724)
+2021-04-28 07:06:10 mchn: Parameter set from peer=21 verified
+2021-04-28 07:06:12 mchn: Sending minimal parameter set to 172.16.25.108:51725
+2021-04-28 07:06:12 receive version message: /MultiChain:0.2.0.12/: version 70002, blocks=57, us=172.16.25.102:7415, peer=22
+2021-04-28 07:06:13 mchn: Connection from 1UxTRJ4eNTBVP13YBSNPB2LB3iy9b1djJ8RuoS received on peer=22 in verack
+2021-04-28 07:06:13 mchn: Connection from 1UxTRJ4eNTBVP13YBSNPB2LB3iy9b1djJ8RuoS received on peer=22 in verackack (172.16.25.108:51725)
+2021-04-28 07:06:13 mchn: Parameter set from peer=22 verified
+2021-04-28 07:06:22 mchn: Synced with node 22 on block 89 - requesting mempool
+2021-04-28 07:55:15 UpdateTip:            new best=00e0ca12e20715621d1b70a11d90d3d15856c53772a14bf897faf6701480550f  height=90  log2_work=14.507795  tx=126  date=2021-04-28 07:55:15 progress=1.000000  cache=0
+2021-04-28 07:55:19 ResendWalletTransactions()
+2021-04-28 07:55:40 mchn: Sending minimal parameter set to 172.16.25.108:7415
+2021-04-28 07:55:40 receive version message: /MultiChain:0.2.0.12/: version 70002, blocks=90, us=172.16.25.102:53168, peer=23
+2021-04-28 07:55:40 mchn: Connection from 1UxTRJ4eNTBVP13YBSNPB2LB3iy9b1djJ8RuoS received on peer=23 in verack
+2021-04-28 07:55:40 mchn: Connection from 1UxTRJ4eNTBVP13YBSNPB2LB3iy9b1djJ8RuoS received on peer=23 in verackack (172.16.25.108:7415)
+2021-04-28 07:55:40 mchn: Parameter set from peer=23 verified
+2021-04-28 07:55:40 mchn: Synced with node 23 on block 90 - requesting mempool
+2021-04-28 08:01:02 mchn: Sending minimal parameter set to 172.16.25.108:52532
+2021-04-28 08:01:02 receive version message: /MultiChain:0.2.0.12/: version 70002, blocks=90, us=172.16.25.102:7415, peer=24
+2021-04-28 08:01:02 mchn: Connection from 1UxTRJ4eNTBVP13YBSNPB2LB3iy9b1djJ8RuoS received on peer=24 in verack
+2021-04-28 08:01:02 mchn: Connection from 1UxTRJ4eNTBVP13YBSNPB2LB3iy9b1djJ8RuoS received on peer=24 in verackack (172.16.25.108:52532)
+2021-04-28 08:01:02 mchn: Parameter set from peer=24 verified
+2021-04-28 08:01:02 mchn: Synced with node 24 on block 90 - requesting mempool
+2021-04-28 08:01:17 UpdateTip:            new best=00ea51455f558c1f4a2b2cafd8308685a70d14859ae6890bc39b7c5a825d6a8c  height=91  log2_work=14.523562  tx=128  date=2021-04-28 08:01:17 progress=1.000000  cache=0
+2021-04-28 08:01:28 ResendWalletTransactions()
+2021-04-28 08:07:27 UpdateTip:            new best=00586651e6886bdeb94ae1672dbaeafa3433f37de979bee2f34ca9784604a1cf  height=92  log2_work=14.539159  tx=133  date=2021-04-28 08:07:27 progress=1.000000  cache=0
+2021-04-28 08:07:36 ResendWalletTransactions()
+2021-04-28 08:07:37 UpdateTip:            new best=00ee7633e1910284bf5b462789805d6dfe1fcb5f3b26e0cd556fbce28071a42e  height=93  log2_work=14.554589  tx=137  date=2021-04-28 08:07:37 progress=1.000000  cache=0
+2021-04-28 08:07:54 ResendWalletTransactions()
+2021-04-28 08:16:23 socket recv error An existing connection was forcibly closed by the remote host.  (10054)
+2021-04-28 08:17:16 net thread interrupt
+2021-04-28 08:17:16 msghand thread interrupt
+2021-04-28 08:17:16 addcon thread interrupt
+2021-04-28 08:17:16 dumpaddr thread stop
+2021-04-28 08:17:19 opencon thread interrupt
+2021-04-28 08:17:19 Shutdown: In progress...
+2021-04-28 08:17:19 RPCAcceptHandler: Error: The I/O operation has been aborted because of either a thread exit or an application request
+2021-04-28 08:17:19 RPCAcceptHandler: Error: The I/O operation has been aborted because of either a thread exit or an application request
+2021-04-28 08:17:20 MultiChainMiner terminated
+2021-04-28 08:17:20 StopNode()
+2021-04-28 08:17:20 Node stopped
+2021-04-28 08:17:20 Shutdown: done
+2021-05-03 05:42:53 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2021-05-03 05:42:53 MultiChain version build 2.1.2 protocol 20012 (Feb 18 2019, 14:27:04)
+2021-05-03 05:42:53 Using OpenSSL version OpenSSL 1.0.1k 8 Jan 2015
+2021-05-03 05:42:53 Using BerkeleyDB version Berkeley DB 4.8.30: (April  9, 2010)
+2021-05-03 05:42:53 Default data directory C:\demo\demochain
+2021-05-03 05:42:53 Using data directory C:\demo\demochain
+2021-05-03 05:42:53 Using config file C:\demo\demochain\demochain.conf
+2021-05-03 05:42:53 Using at most 125 connections (2048 file descriptors available)
+2021-05-03 05:42:53 Using 8 threads for script verification
+2021-05-03 05:42:53 Using wallet wallet.dat
+2021-05-03 05:42:53 init message: Verifying wallet...
+2021-05-03 05:42:53 Wallet file exists. WalletDBVersion: 3.
+2021-05-03 05:42:53 Binding RPC on address ::1 port 7414 (IPv4+IPv6 bind any: 0)
+2021-05-03 05:42:53 Binding RPC on address 127.0.0.1 port 7414 (IPv4+IPv6 bind any: 0)
+2021-05-03 05:42:53 init message: Initializing multichain...
+2021-05-03 05:42:53 mchn: Seed address resolved: 172.16.26.203:7415
+2021-05-03 05:42:53 mchn: Parameter set is valid - initializing blockchain parameters...
+2021-05-03 05:42:54 Wallet mode: 00000103
+2021-05-03 05:42:54 nFileVersion = 100000
+2021-05-03 05:42:54 Keys: 2 plaintext, 0 encrypted, 2 w/ metadata, 2 total
+2021-05-03 05:42:54 Node paused state is set to 00000000
+2021-05-03 05:42:54 Bound to [::]:7415
+2021-05-03 05:42:54 Bound to 0.0.0.0:7415
+2021-05-03 05:42:54 Filter initialization completed
+2021-05-03 05:42:54 Setting banned transaction list:    0 transactions
+2021-05-03 05:42:54 init message: Loading block index...
+2021-05-03 05:42:54 Opening LevelDB in C:\demo\demochain\blocks\index
+2021-05-03 05:42:54 Opened LevelDB successfully
+2021-05-03 05:42:54 Opening LevelDB in C:\demo\demochain\chainstate
+2021-05-03 05:42:54 Opened LevelDB successfully
+2021-05-03 05:42:54 nFileVersion = 100000
+2021-05-03 05:42:54 Keys: 2 plaintext, 0 encrypted, 2 w/ metadata, 2 total
+2021-05-03 05:42:54 LoadBlockIndexDB: last block file = 0
+2021-05-03 05:42:54 LoadBlockIndexDB: last block file info: CBlockFileInfo(blocks=94, size=51934, heights=0...93, time=2021-04-22...2021-04-28)
+2021-05-03 05:42:54 Checking all blk files are present...
+2021-05-03 05:42:54 LoadBlockIndexDB(): transaction index enabled
+2021-05-03 05:42:54 LoadBlockIndexDB(): hashBestChain=00ee7633e1910284bf5b462789805d6dfe1fcb5f3b26e0cd556fbce28071a42e height=93 date=2021-04-28 08:07:37 progress=1.000000
+2021-05-03 05:42:54 init message: Verifying blocks...
+2021-05-03 05:42:54 Verifying last 93 blocks at level 3
+2021-05-03 05:42:54 No coin database inconsistencies in last 93 blocks (136 transactions)
+2021-05-03 05:42:54  block index             181ms
+2021-05-03 05:42:54 MultiChain protocol version: 20012
+2021-05-03 05:42:54 init message: Loading wallet...
+2021-05-03 05:42:54 nFileVersion = 100000
+2021-05-03 05:42:54 Keys: 2 plaintext, 0 encrypted, 2 w/ metadata, 2 total
+2021-05-03 05:42:54  wallet                    1ms
+2021-05-03 05:42:54 mapBlockIndex.size() = 94
+2021-05-03 05:42:54 nBestHeight = 93
+2021-05-03 05:42:54 setKeyPool.size() = 1
+2021-05-03 05:42:54 oldWallet.size() = 0
+2021-05-03 05:42:54 mapWallet.size() = 39
+2021-05-03 05:42:54 mapAddressBook.size() = 1
+2021-05-03 05:42:54 init message: Loading addresses...
+2021-05-03 05:42:54 Loaded 5 addresses from peers.dat  1ms
+2021-05-03 05:42:54 AddLocal([fe80::cf1:c730:6e2c:571a]:7415,1)
+2021-05-03 05:42:54 Discover: cplab01 - fe80::cf1:c730:6e2c:571a
+2021-05-03 05:42:54 AddLocal([fe80::9561:46eb:63c6:dd02]:7415,1)
+2021-05-03 05:42:54 Discover: cplab01 - fe80::9561:46eb:63c6:dd02
+2021-05-03 05:42:54 AddLocal([fe80::e:cc85:aae5:576]:7415,1)
+2021-05-03 05:42:54 Discover: cplab01 - fe80::e:cc85:aae5:576
+2021-05-03 05:42:54 AddLocal(192.168.214.1:7415,1)
+2021-05-03 05:42:54 Discover: cplab01 - 192.168.214.1
+2021-05-03 05:42:54 AddLocal(192.168.143.1:7415,1)
+2021-05-03 05:42:54 Discover: cplab01 - 192.168.143.1
+2021-05-03 05:42:54 AddLocal(172.16.25.102:7415,1)
+2021-05-03 05:42:54 Discover: cplab01 - 172.16.25.102
+2021-05-03 05:42:54 dnsseed thread start
+2021-05-03 05:42:54 init message: Done loading
+2021-05-03 05:42:54 msghand thread start
+2021-05-03 05:42:54 addcon thread start
+2021-05-03 05:42:54 MultiChainMiner started
+2021-05-03 05:42:54 net thread start
+2021-05-03 05:42:54 dumpaddr thread start
+2021-05-03 05:42:54 opencon thread start
+2021-05-03 05:42:54 Seed node is set, trying to connect to 172.16.26.203:7415...
+2021-05-03 05:42:54 Node started
+2021-05-03 05:42:54 mchn: Sending minimal parameter set to 172.16.26.203:7415
+2021-05-03 05:42:54 receive version message: /MultiChain:0.2.0.12/: version 70002, blocks=93, us=172.16.25.102:53438, peer=1
+2021-05-03 05:42:54 Added time data, samples 2, offset +6 (+0 minutes)
+2021-05-03 05:42:54 mchn: Connection from 19CGMgtsx7o4x4B6ZqYRyxNnJg3ActQhVHLsTH received on peer=1 in verack
+2021-05-03 05:42:54 mchn: Connection from 19CGMgtsx7o4x4B6ZqYRyxNnJg3ActQhVHLsTH received on peer=1 in verackack (172.16.26.203:7415)
+2021-05-03 05:42:54 mchn: Parameter set from peer=1 verified
+2021-05-03 05:42:54 mchn: Synced with node 1 on block 93 - requesting mempool
+2021-05-03 05:42:56 ResendWalletTransactions()
+2021-05-03 05:43:05 Loading addresses from DNS seeds (could take a while)
+2021-05-03 05:43:05 0 addresses found from DNS seeds
+2021-05-03 05:43:05 dnsseed thread exit
+2021-05-03 05:47:39 dumpaddr thread stop
+2021-05-03 05:47:39 addcon thread interrupt
+2021-05-03 05:47:39 msghand thread interrupt
+2021-05-03 05:47:39 opencon thread interrupt
+2021-05-03 05:47:39 net thread interrupt
+2021-05-03 05:47:39 Shutdown: In progress...
+2021-05-03 05:47:39 RPCAcceptHandler: Error: The I/O operation has been aborted because of either a thread exit or an application request
+2021-05-03 05:47:39 RPCAcceptHandler: Error: The I/O operation has been aborted because of either a thread exit or an application request
+2021-05-03 05:47:40 MultiChainMiner terminated
+2021-05-03 05:47:40 StopNode()
+2021-05-03 05:47:40 Node stopped
+2021-05-03 05:47:40 Shutdown: done
+2021-05-03 05:47:44 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2021-05-03 05:47:44 MultiChain version build 2.1.2 protocol 20012 (Feb 18 2019, 14:27:04)
+2021-05-03 05:47:44 Using OpenSSL version OpenSSL 1.0.1k 8 Jan 2015
+2021-05-03 05:47:44 Using BerkeleyDB version Berkeley DB 4.8.30: (April  9, 2010)
+2021-05-03 05:47:44 Default data directory C:\demo\demochain
+2021-05-03 05:47:44 Using data directory C:\demo\demochain
+2021-05-03 05:47:44 Using config file C:\demo\demochain\demochain.conf
+2021-05-03 05:47:44 Using at most 125 connections (2048 file descriptors available)
+2021-05-03 05:47:44 Using 8 threads for script verification
+2021-05-03 05:47:44 Using wallet wallet.dat
+2021-05-03 05:47:44 init message: Verifying wallet...
+2021-05-03 05:47:44 Wallet file exists. WalletDBVersion: 3.
+2021-05-03 05:47:44 Binding RPC on address ::1 port 7414 (IPv4+IPv6 bind any: 0)
+2021-05-03 05:47:44 Binding RPC on address 127.0.0.1 port 7414 (IPv4+IPv6 bind any: 0)
+2021-05-03 05:47:44 init message: Initializing multichain...
+2021-05-03 05:47:44 mchn: Seed address resolved: 172.16.26.203:7415
+2021-05-03 05:47:44 mchn: Parameter set is valid - initializing blockchain parameters...
+2021-05-03 05:47:44 Wallet mode: 00000103
+2021-05-03 05:47:44 nFileVersion = 100000
+2021-05-03 05:47:44 Keys: 2 plaintext, 0 encrypted, 2 w/ metadata, 2 total
+2021-05-03 05:47:44 Node paused state is set to 00000000
+2021-05-03 05:47:44 Bound to [::]:7415
+2021-05-03 05:47:44 Bound to 0.0.0.0:7415
+2021-05-03 05:47:44 Filter initialization completed
+2021-05-03 05:47:44 Setting banned transaction list:    0 transactions
+2021-05-03 05:47:44 init message: Loading block index...
+2021-05-03 05:47:44 Opening LevelDB in C:\demo\demochain\blocks\index
+2021-05-03 05:47:44 Opened LevelDB successfully
+2021-05-03 05:47:44 Opening LevelDB in C:\demo\demochain\chainstate
+2021-05-03 05:47:44 Opened LevelDB successfully
+2021-05-03 05:47:44 nFileVersion = 100000
+2021-05-03 05:47:44 Keys: 2 plaintext, 0 encrypted, 2 w/ metadata, 2 total
+2021-05-03 05:47:44 LoadBlockIndexDB: last block file = 0
+2021-05-03 05:47:44 LoadBlockIndexDB: last block file info: CBlockFileInfo(blocks=94, size=51934, heights=0...93, time=2021-04-22...2021-04-28)
+2021-05-03 05:47:44 Checking all blk files are present...
+2021-05-03 05:47:44 LoadBlockIndexDB(): transaction index enabled
+2021-05-03 05:47:44 LoadBlockIndexDB(): hashBestChain=00ee7633e1910284bf5b462789805d6dfe1fcb5f3b26e0cd556fbce28071a42e height=93 date=2021-04-28 08:07:37 progress=1.000000
+2021-05-03 05:47:44 init message: Verifying blocks...
+2021-05-03 05:47:44 Verifying last 93 blocks at level 3
+2021-05-03 05:47:44 No coin database inconsistencies in last 93 blocks (136 transactions)
+2021-05-03 05:47:44  block index             152ms
+2021-05-03 05:47:44 MultiChain protocol version: 20012
+2021-05-03 05:47:44 init message: Loading wallet...
+2021-05-03 05:47:44 nFileVersion = 100000
+2021-05-03 05:47:44 Keys: 2 plaintext, 0 encrypted, 2 w/ metadata, 2 total
+2021-05-03 05:47:44  wallet                    1ms
+2021-05-03 05:47:44 mapBlockIndex.size() = 94
+2021-05-03 05:47:44 nBestHeight = 93
+2021-05-03 05:47:44 setKeyPool.size() = 1
+2021-05-03 05:47:44 oldWallet.size() = 0
+2021-05-03 05:47:44 mapWallet.size() = 39
+2021-05-03 05:47:44 mapAddressBook.size() = 1
+2021-05-03 05:47:44 init message: Loading addresses...
+2021-05-03 05:47:44 Loaded 5 addresses from peers.dat  0ms
+2021-05-03 05:47:44 AddLocal([fe80::cf1:c730:6e2c:571a]:7415,1)
+2021-05-03 05:47:44 Discover: cplab01 - fe80::cf1:c730:6e2c:571a
+2021-05-03 05:47:44 AddLocal([fe80::9561:46eb:63c6:dd02]:7415,1)
+2021-05-03 05:47:44 Discover: cplab01 - fe80::9561:46eb:63c6:dd02
+2021-05-03 05:47:44 AddLocal([fe80::e:cc85:aae5:576]:7415,1)
+2021-05-03 05:47:44 Discover: cplab01 - fe80::e:cc85:aae5:576
+2021-05-03 05:47:44 AddLocal(192.168.214.1:7415,1)
+2021-05-03 05:47:44 Discover: cplab01 - 192.168.214.1
+2021-05-03 05:47:44 AddLocal(192.168.143.1:7415,1)
+2021-05-03 05:47:44 Discover: cplab01 - 192.168.143.1
+2021-05-03 05:47:44 AddLocal(172.16.25.102:7415,1)
+2021-05-03 05:47:44 Discover: cplab01 - 172.16.25.102
+2021-05-03 05:47:44 dnsseed thread start
+2021-05-03 05:47:44 init message: Done loading
+2021-05-03 05:47:44 msghand thread start
+2021-05-03 05:47:44 net thread start
+2021-05-03 05:47:44 opencon thread start
+2021-05-03 05:47:44 Seed node is set, trying to connect to 172.16.26.203:7415...
+2021-05-03 05:47:44 dumpaddr thread start
+2021-05-03 05:47:44 MultiChainMiner started
+2021-05-03 05:47:44 addcon thread start
+2021-05-03 05:47:44 Node started
+2021-05-03 05:47:45 mchn: Sending minimal parameter set to 172.16.26.203:7415
+2021-05-03 05:47:45 receive version message: /MultiChain:0.2.0.12/: version 70002, blocks=93, us=172.16.25.102:53651, peer=1
+2021-05-03 05:47:45 Added time data, samples 2, offset +6 (+0 minutes)
+2021-05-03 05:47:45 mchn: Connection from 19CGMgtsx7o4x4B6ZqYRyxNnJg3ActQhVHLsTH received on peer=1 in verack
+2021-05-03 05:47:45 mchn: Connection from 19CGMgtsx7o4x4B6ZqYRyxNnJg3ActQhVHLsTH received on peer=1 in verackack (172.16.26.203:7415)
+2021-05-03 05:47:45 mchn: Parameter set from peer=1 verified
+2021-05-03 05:47:45 mchn: Synced with node 1 on block 93 - requesting mempool
+2021-05-03 05:47:55 Loading addresses from DNS seeds (could take a while)
+2021-05-03 05:47:55 0 addresses found from DNS seeds
+2021-05-03 05:47:55 dnsseed thread exit
+2021-05-03 05:48:13 ResendWalletTransactions()
+2021-05-03 05:48:16 socket recv error An existing connection was forcibly closed by the remote host.  (10054)
+2021-05-03 05:48:23 mchn: Sending minimal parameter set to 172.16.26.203:54828
+2021-05-03 05:48:23 receive version message: /MultiChain:0.2.0.12/: version 70002, blocks=93, us=172.16.25.102:7415, peer=2
+2021-05-03 05:48:23 mchn: Connection from 19CGMgtsx7o4x4B6ZqYRyxNnJg3ActQhVHLsTH received on peer=2 in verack
+2021-05-03 05:48:23 mchn: Connection from 19CGMgtsx7o4x4B6ZqYRyxNnJg3ActQhVHLsTH received on peer=2 in verackack (172.16.26.203:54828)
+2021-05-03 05:48:23 mchn: Parameter set from peer=2 verified
+2021-05-03 05:48:23 mchn: Sending minimal parameter set to 172.16.26.203:7415
+2021-05-03 05:48:23 receive version message: /MultiChain:0.2.0.12/: version 70002, blocks=93, us=172.16.25.102:53677, peer=3
+2021-05-03 05:48:23 mchn: Synced with node 2 on block 93 - requesting mempool
+2021-05-03 05:48:23 mchn: Connection from 19CGMgtsx7o4x4B6ZqYRyxNnJg3ActQhVHLsTH received on peer=3 in verack
+2021-05-03 05:48:23 mchn: Connection from 19CGMgtsx7o4x4B6ZqYRyxNnJg3ActQhVHLsTH received on peer=3 in verackack (172.16.26.203:7415)
+2021-05-03 05:48:23 mchn: Parameter set from peer=3 verified
+2021-05-03 05:51:36 mchn: Sending minimal parameter set to 172.16.26.203:54882
+2021-05-03 05:51:36 receive version message: /MultiChain:0.2.0.12/: version 70002, blocks=93, us=172.16.25.102:7415, peer=4
+2021-05-03 05:51:37 mchn: Connection from 19CGMgtsx7o4x4B6ZqYRyxNnJg3ActQhVHLsTH received on peer=4 in verack
+2021-05-03 05:51:37 mchn: Connection from 19CGMgtsx7o4x4B6ZqYRyxNnJg3ActQhVHLsTH received on peer=4 in verackack (172.16.26.203:54882)
+2021-05-03 05:51:37 mchn: Parameter set from peer=4 verified
+2021-05-03 05:51:37 mchn: Synced with node 4 on block 93 - requesting mempool
+2021-05-03 05:51:43 addcon thread interrupt
+2021-05-03 05:51:43 dumpaddr thread stop
+2021-05-03 05:51:43 msghand thread interrupt
+2021-05-03 05:51:43 opencon thread interrupt
+2021-05-03 05:51:43 net thread interrupt
+2021-05-03 05:51:43 Shutdown: In progress...
+2021-05-03 05:51:43 RPCAcceptHandler: Error: The I/O operation has been aborted because of either a thread exit or an application request
+2021-05-03 05:51:43 RPCAcceptHandler: Error: The I/O operation has been aborted because of either a thread exit or an application request
+2021-05-03 05:51:43 MultiChainMiner terminated
+2021-05-03 05:51:43 StopNode()
+2021-05-03 05:51:43 Node stopped
+2021-05-03 05:51:43 Shutdown: done
+2021-05-03 05:52:17 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2021-05-03 05:52:17 MultiChain version build 2.1.2 protocol 20012 (Feb 18 2019, 14:27:04)
+2021-05-03 05:52:17 Using OpenSSL version OpenSSL 1.0.1k 8 Jan 2015
+2021-05-03 05:52:17 Using BerkeleyDB version Berkeley DB 4.8.30: (April  9, 2010)
+2021-05-03 05:52:17 Default data directory C:\demo\demochain
+2021-05-03 05:52:17 Using data directory C:\demo\demochain
+2021-05-03 05:52:17 Using config file C:\demo\demochain\demochain.conf
+2021-05-03 05:52:17 Using at most 125 connections (2048 file descriptors available)
+2021-05-03 05:52:17 Using 8 threads for script verification
+2021-05-03 05:52:17 Using wallet wallet.dat
+2021-05-03 05:52:17 init message: Verifying wallet...
+2021-05-03 05:52:17 Wallet file exists. WalletDBVersion: 3.
+2021-05-03 05:52:17 Binding RPC on address ::1 port 7414 (IPv4+IPv6 bind any: 0)
+2021-05-03 05:52:17 Binding RPC on address 127.0.0.1 port 7414 (IPv4+IPv6 bind any: 0)
+2021-05-03 05:52:17 init message: Initializing multichain...
+2021-05-03 05:52:17 mchn: Seed address resolved: 172.16.26.203:7415
+2021-05-03 05:52:17 mchn: Parameter set is valid - initializing blockchain parameters...
+2021-05-03 05:52:17 Wallet mode: 00000103
+2021-05-03 05:52:17 nFileVersion = 100000
+2021-05-03 05:52:17 Keys: 2 plaintext, 0 encrypted, 2 w/ metadata, 2 total
+2021-05-03 05:52:17 Node paused state is set to 00000000
+2021-05-03 05:52:17 Bound to [::]:7415
+2021-05-03 05:52:17 Bound to 0.0.0.0:7415
+2021-05-03 05:52:18 Filter initialization completed
+2021-05-03 05:52:18 Setting banned transaction list:    0 transactions
+2021-05-03 05:52:18 init message: Loading block index...
+2021-05-03 05:52:18 Opening LevelDB in C:\demo\demochain\blocks\index
+2021-05-03 05:52:18 Opened LevelDB successfully
+2021-05-03 05:52:18 Opening LevelDB in C:\demo\demochain\chainstate
+2021-05-03 05:52:18 Opened LevelDB successfully
+2021-05-03 05:52:18 nFileVersion = 100000
+2021-05-03 05:52:18 Keys: 2 plaintext, 0 encrypted, 2 w/ metadata, 2 total
+2021-05-03 05:52:18 LoadBlockIndexDB: last block file = 0
+2021-05-03 05:52:18 LoadBlockIndexDB: last block file info: CBlockFileInfo(blocks=94, size=51934, heights=0...93, time=2021-04-22...2021-04-28)
+2021-05-03 05:52:18 Checking all blk files are present...
+2021-05-03 05:52:18 LoadBlockIndexDB(): transaction index enabled
+2021-05-03 05:52:18 LoadBlockIndexDB(): hashBestChain=00ee7633e1910284bf5b462789805d6dfe1fcb5f3b26e0cd556fbce28071a42e height=93 date=2021-04-28 08:07:37 progress=1.000000
+2021-05-03 05:52:18 init message: Verifying blocks...
+2021-05-03 05:52:18 Verifying last 93 blocks at level 3
+2021-05-03 05:52:18 No coin database inconsistencies in last 93 blocks (136 transactions)
+2021-05-03 05:52:18  block index             108ms
+2021-05-03 05:52:18 MultiChain protocol version: 20012
+2021-05-03 05:52:18 init message: Loading wallet...
+2021-05-03 05:52:18 nFileVersion = 100000
+2021-05-03 05:52:18 Keys: 2 plaintext, 0 encrypted, 2 w/ metadata, 2 total
+2021-05-03 05:52:18  wallet                    1ms
+2021-05-03 05:52:18 mapBlockIndex.size() = 94
+2021-05-03 05:52:18 nBestHeight = 93
+2021-05-03 05:52:18 setKeyPool.size() = 1
+2021-05-03 05:52:18 oldWallet.size() = 0
+2021-05-03 05:52:18 mapWallet.size() = 39
+2021-05-03 05:52:18 mapAddressBook.size() = 1
+2021-05-03 05:52:18 init message: Loading addresses...
+2021-05-03 05:52:18 Loaded 5 addresses from peers.dat  0ms
+2021-05-03 05:52:18 AddLocal([fe80::cf1:c730:6e2c:571a]:7415,1)
+2021-05-03 05:52:18 Discover: cplab01 - fe80::cf1:c730:6e2c:571a
+2021-05-03 05:52:18 AddLocal([fe80::9561:46eb:63c6:dd02]:7415,1)
+2021-05-03 05:52:18 Discover: cplab01 - fe80::9561:46eb:63c6:dd02
+2021-05-03 05:52:18 AddLocal([fe80::e:cc85:aae5:576]:7415,1)
+2021-05-03 05:52:18 Discover: cplab01 - fe80::e:cc85:aae5:576
+2021-05-03 05:52:18 AddLocal(192.168.214.1:7415,1)
+2021-05-03 05:52:18 Discover: cplab01 - 192.168.214.1
+2021-05-03 05:52:18 AddLocal(192.168.143.1:7415,1)
+2021-05-03 05:52:18 Discover: cplab01 - 192.168.143.1
+2021-05-03 05:52:18 AddLocal(172.16.25.102:7415,1)
+2021-05-03 05:52:18 Discover: cplab01 - 172.16.25.102
+2021-05-03 05:52:18 dnsseed thread start
+2021-05-03 05:52:18 msghand thread start
+2021-05-03 05:52:18 net thread start
+2021-05-03 05:52:18 addcon thread start
+2021-05-03 05:52:18 opencon thread start
+2021-05-03 05:52:18 Seed node is set, trying to connect to 172.16.26.203:7415...
+2021-05-03 05:52:18 dumpaddr thread start
+2021-05-03 05:52:18 MultiChainMiner started
+2021-05-03 05:52:18 init message: Done loading
+2021-05-03 05:52:18 Node started
+2021-05-03 05:52:18 mchn: Sending minimal parameter set to 172.16.26.203:7415
+2021-05-03 05:52:18 receive version message: /MultiChain:0.2.0.12/: version 70002, blocks=93, us=172.16.25.102:53720, peer=1
+2021-05-03 05:52:18 Added time data, samples 2, offset +6 (+0 minutes)
+2021-05-03 05:52:18 mchn: Connection from 19CGMgtsx7o4x4B6ZqYRyxNnJg3ActQhVHLsTH received on peer=1 in verack
+2021-05-03 05:52:18 mchn: Connection from 19CGMgtsx7o4x4B6ZqYRyxNnJg3ActQhVHLsTH received on peer=1 in verackack (172.16.26.203:7415)
+2021-05-03 05:52:18 mchn: Parameter set from peer=1 verified
+2021-05-03 05:52:18 mchn: Synced with node 1 on block 93 - requesting mempool
+2021-05-03 05:52:29 Loading addresses from DNS seeds (could take a while)
+2021-05-03 05:52:29 0 addresses found from DNS seeds
+2021-05-03 05:52:29 dnsseed thread exit
+2021-05-03 05:52:33 ResendWalletTransactions()
+2021-05-03 05:52:52 CommitTransaction: 9c72bc8abd3ff83d5339c2f49a65105a8134ee80fe3b03610af12e72baa083e4, vin: 1, vout: 2
+2021-05-03 05:53:05 UpdateTip:            new best=00b0e0a2d6b07ab4fa47beb5885e096ed56cb97cf3c27ce909cd851672339e37  height=94  log2_work=14.569856  tx=139  date=2021-05-03 05:53:11 progress=1.000000  cache=0
+2021-05-03 05:53:10 ResendWalletTransactions()
+2021-05-03 06:04:36 CommitTransaction: 7ca44ebe07bcec3e059be0ddab06a9da27e4f4aba978056c0702ac5812a159a0, vin: 1, vout: 2
+2021-05-03 06:04:51 UpdateTip:            new best=00f32d49e7d863a28fc8c05013dbff2d40b4346a7ec729e71db98776d08770f8  height=95  log2_work=14.584963  tx=141  date=2021-05-03 06:04:57 progress=1.000000  cache=0
+2021-05-03 06:05:03 ResendWalletTransactions()
+2021-05-03 06:05:31 CommitTransaction: 9f535524f75ba6474095b994cc53567b53a5f200058cf2740a6361d1b65b516c, vin: 1, vout: 2
+2021-05-03 06:05:42 UpdateTip:            new best=00505d863b0b327e449673a8ed1ed223595afcaa509a711590396c04dc715f65  height=96  log2_work=14.599913  tx=143  date=2021-05-03 06:05:47 progress=1.000000  cache=0
+2021-05-03 06:05:48 ResendWalletTransactions()
+2021-05-03 06:06:13 CommitTransaction: 1465c7791f3a75a4ba79fbf4a3b5bbd65b61c4d0fdbf4bd1ce0db50e36de158b, vin: 1, vout: 2
+2021-05-03 06:06:28 UpdateTip:            new best=004bdc04a802b9ac9ceffce309afd0064d920f5db3c60a943b74ee154909d387  height=97  log2_work=14.61471  tx=145  date=2021-05-03 06:06:34 progress=1.000000  cache=0
+2021-05-03 06:06:53 ResendWalletTransactions()
+2021-05-03 06:07:49 CommitTransaction: 63bab94bafe1288fb200f05d6adc54487756eef3f83976fdceef5b0702eb9d3b, vin: 1, vout: 2
+2021-05-03 06:08:05 UpdateTip:            new best=00b1a4d6203bac3888c82f563054eebdd118f2b53ca59a05df671ca990e36f76  height=98  log2_work=14.629357  tx=147  date=2021-05-03 06:08:10 progress=1.000000  cache=0
+2021-05-03 06:08:09 ResendWalletTransactions()
+2021-05-03 06:08:14 dumpaddr thread stop
+2021-05-03 06:08:14 addcon thread interrupt
+2021-05-03 06:08:14 msghand thread interrupt
+2021-05-03 06:08:14 net thread interrupt
+2021-05-03 06:08:18 opencon thread interrupt
+2021-05-03 06:08:18 Shutdown: In progress...
+2021-05-03 06:08:18 RPCAcceptHandler: Error: The I/O operation has been aborted because of either a thread exit or an application request
+2021-05-03 06:08:18 RPCAcceptHandler: Error: The I/O operation has been aborted because of either a thread exit or an application request
+2021-05-03 06:08:19 MultiChainMiner terminated
+2021-05-03 06:08:19 StopNode()
+2021-05-03 06:08:19 Node stopped
+2021-05-03 06:08:19 Shutdown: done
+2021-05-03 06:09:01 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2021-05-03 06:09:01 MultiChain version build 2.1.2 protocol 20012 (Feb 18 2019, 14:27:04)
+2021-05-03 06:09:01 Using OpenSSL version OpenSSL 1.0.1k 8 Jan 2015
+2021-05-03 06:09:01 Using BerkeleyDB version Berkeley DB 4.8.30: (April  9, 2010)
+2021-05-03 06:09:01 Default data directory C:\demo\demochain
+2021-05-03 06:09:01 Using data directory C:\demo\demochain
+2021-05-03 06:09:01 Using config file C:\demo\demochain\demochain.conf
+2021-05-03 06:09:01 Using at most 125 connections (2048 file descriptors available)
+2021-05-03 06:09:01 Using 8 threads for script verification
+2021-05-03 06:09:01 Using wallet wallet.dat
+2021-05-03 06:09:01 init message: Verifying wallet...
+2021-05-03 06:09:01 Wallet file exists. WalletDBVersion: 3.
+2021-05-03 06:09:01 Binding RPC on address ::1 port 7414 (IPv4+IPv6 bind any: 0)
+2021-05-03 06:09:01 Binding RPC on address 127.0.0.1 port 7414 (IPv4+IPv6 bind any: 0)
+2021-05-03 06:09:01 init message: Initializing multichain...
+2021-05-03 06:09:01 mchn: Seed address resolved: 172.16.26.203:7415
+2021-05-03 06:09:01 mchn: Parameter set is valid - initializing blockchain parameters...
+2021-05-03 06:09:01 Wallet mode: 00000103
+2021-05-03 06:09:01 nFileVersion = 100000
+2021-05-03 06:09:01 Keys: 2 plaintext, 0 encrypted, 2 w/ metadata, 2 total
+2021-05-03 06:09:01 Node paused state is set to 00000000
+2021-05-03 06:09:01 Bound to [::]:7415
+2021-05-03 06:09:01 Bound to 0.0.0.0:7415
+2021-05-03 06:09:01 Filter initialization completed
+2021-05-03 06:09:01 Setting banned transaction list:    0 transactions
+2021-05-03 06:09:01 init message: Loading block index...
+2021-05-03 06:09:01 Opening LevelDB in C:\demo\demochain\blocks\index
+2021-05-03 06:09:01 Opened LevelDB successfully
+2021-05-03 06:09:01 Opening LevelDB in C:\demo\demochain\chainstate
+2021-05-03 06:09:01 Opened LevelDB successfully
+2021-05-03 06:09:01 nFileVersion = 100000
+2021-05-03 06:09:01 Keys: 2 plaintext, 0 encrypted, 2 w/ metadata, 2 total
+2021-05-03 06:09:01 LoadBlockIndexDB: last block file = 0
+2021-05-03 06:09:01 LoadBlockIndexDB: last block file info: CBlockFileInfo(blocks=99, size=57146, heights=0...98, time=2021-04-22...2021-05-03)
+2021-05-03 06:09:01 Checking all blk files are present...
+2021-05-03 06:09:01 LoadBlockIndexDB(): transaction index enabled
+2021-05-03 06:09:01 LoadBlockIndexDB(): hashBestChain=00b1a4d6203bac3888c82f563054eebdd118f2b53ca59a05df671ca990e36f76 height=98 date=2021-05-03 06:08:10 progress=1.000000
+2021-05-03 06:09:01 init message: Verifying blocks...
+2021-05-03 06:09:01 Verifying last 98 blocks at level 3
+2021-05-03 06:09:01 No coin database inconsistencies in last 98 blocks (146 transactions)
+2021-05-03 06:09:01  block index             149ms
+2021-05-03 06:09:01 MultiChain protocol version: 20012
+2021-05-03 06:09:01 init message: Loading wallet...
+2021-05-03 06:09:01 nFileVersion = 100000
+2021-05-03 06:09:01 Keys: 2 plaintext, 0 encrypted, 2 w/ metadata, 2 total
+2021-05-03 06:09:01  wallet                    1ms
+2021-05-03 06:09:01 mapBlockIndex.size() = 99
+2021-05-03 06:09:01 nBestHeight = 98
+2021-05-03 06:09:01 setKeyPool.size() = 1
+2021-05-03 06:09:01 oldWallet.size() = 0
+2021-05-03 06:09:01 mapWallet.size() = 44
+2021-05-03 06:09:01 mapAddressBook.size() = 1
+2021-05-03 06:09:01 init message: Loading addresses...
+2021-05-03 06:09:01 Loaded 5 addresses from peers.dat  0ms
+2021-05-03 06:09:01 AddLocal([fe80::cf1:c730:6e2c:571a]:7415,1)
+2021-05-03 06:09:01 Discover: cplab01 - fe80::cf1:c730:6e2c:571a
+2021-05-03 06:09:01 AddLocal([fe80::9561:46eb:63c6:dd02]:7415,1)
+2021-05-03 06:09:01 Discover: cplab01 - fe80::9561:46eb:63c6:dd02
+2021-05-03 06:09:01 AddLocal([fe80::e:cc85:aae5:576]:7415,1)
+2021-05-03 06:09:01 Discover: cplab01 - fe80::e:cc85:aae5:576
+2021-05-03 06:09:01 AddLocal(192.168.214.1:7415,1)
+2021-05-03 06:09:01 Discover: cplab01 - 192.168.214.1
+2021-05-03 06:09:01 AddLocal(192.168.143.1:7415,1)
+2021-05-03 06:09:01 Discover: cplab01 - 192.168.143.1
+2021-05-03 06:09:01 AddLocal(172.16.25.102:7415,1)
+2021-05-03 06:09:01 Discover: cplab01 - 172.16.25.102
+2021-05-03 06:09:01 dnsseed thread start
+2021-05-03 06:09:01 init message: Done loading
+2021-05-03 06:09:01 net thread start
+2021-05-03 06:09:01 opencon thread start
+2021-05-03 06:09:01 msghand thread start
+2021-05-03 06:09:01 dumpaddr thread start
+2021-05-03 06:09:01 MultiChainMiner started
+2021-05-03 06:09:01 addcon thread start
+2021-05-03 06:09:01 Seed node is set, trying to connect to 172.16.26.203:7415...
+2021-05-03 06:09:01 Node started
+2021-05-03 06:09:01 mchn: Sending minimal parameter set to 172.16.26.203:7415
+2021-05-03 06:09:01 receive version message: /MultiChain:0.2.0.12/: version 70002, blocks=98, us=172.16.25.102:54078, peer=1
+2021-05-03 06:09:01 Added time data, samples 2, offset +6 (+0 minutes)
+2021-05-03 06:09:01 mchn: Connection from 19CGMgtsx7o4x4B6ZqYRyxNnJg3ActQhVHLsTH received on peer=1 in verack
+2021-05-03 06:09:01 mchn: Connection from 19CGMgtsx7o4x4B6ZqYRyxNnJg3ActQhVHLsTH received on peer=1 in verackack (172.16.26.203:7415)
+2021-05-03 06:09:01 mchn: Parameter set from peer=1 verified
+2021-05-03 06:09:01 mchn: Synced with node 1 on block 98 - requesting mempool
+2021-05-03 06:09:02 mchn: Sending minimal parameter set to 172.16.26.203:55081
+2021-05-03 06:09:02 receive version message: /MultiChain:0.2.0.12/: version 70002, blocks=98, us=172.16.25.102:7415, peer=2
+2021-05-03 06:09:02 mchn: Connection from 19CGMgtsx7o4x4B6ZqYRyxNnJg3ActQhVHLsTH received on peer=2 in verack
+2021-05-03 06:09:02 mchn: Connection from 19CGMgtsx7o4x4B6ZqYRyxNnJg3ActQhVHLsTH received on peer=2 in verackack (172.16.26.203:55081)
+2021-05-03 06:09:02 mchn: Parameter set from peer=2 verified
+2021-05-03 06:09:02 mchn: Synced with node 2 on block 98 - requesting mempool
+2021-05-03 06:09:12 ResendWalletTransactions()
+2021-05-03 06:09:12 P2P peers available. Skipped DNS seeding.
+2021-05-03 06:09:12 dnsseed thread exit
+2021-05-03 06:09:27 CommitTransaction: cd7c7fb42e709f8269b63fa32b843bd57b911b2c5e312a62d3587e9d33820ad8, vin: 1, vout: 2
+2021-05-03 06:09:43 UpdateTip:            new best=0070425a923cb8048fdd51bc5e5547cbb53b0226be0828f3ab69afadaed77f85  height=99  log2_work=14.643856  tx=149  date=2021-05-03 06:09:48 progress=1.000000  cache=0
+2021-05-03 06:09:53 ResendWalletTransactions()

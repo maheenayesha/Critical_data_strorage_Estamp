@@ -1,0 +1,7 @@
+multichain-util --datadir=C:\demo create demochain
+
+multichaind --datadir=C:\demo demochain –deamon
+
+multichain-cli demochain --datadir=C:\demo create stream stream1 "{\"restrict\":\"write\"}"
+
+multichain-cli demochain --datadir=C:\demo subscribe stream1

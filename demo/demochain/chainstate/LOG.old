@@ -1,0 +1,5 @@
+2021/05/03-10:52:52.000048 1bac Recovering log #32
+2021/05/03-10:52:52.000048 1bac Level-0 table #34: started
+2021/05/03-10:52:52.000071 1bac Level-0 table #34: 207 bytes OK
+2021/05/03-10:52:52.000075 1bac Delete type=0 #32
+2021/05/03-10:52:52.000075 1bac Delete type=3 #30
